@@ -1,0 +1,1131 @@
+﻿Log file open, 03/26/24 12:15:58
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VSPerf140.dll' (GetLastError=126)
+LogWindows: File 'VSPerf140.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogInit: Display: Running engine for game: SonicKillsAnime
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 47 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 1.158221
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogICUInternationalization: Display: ICU TimeZone Detection - Raw Offset: -8:00, Platform Override: ''
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MeshEditor
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleVision
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MagicLeapEmulator
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin LinearTimecode
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin NetcodeUnitTest
+LogPluginManager: Mounting plugin NUTUnrealEngine4
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin ImmediatePhysics
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Plugin shader directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders found
+LogPluginManager: Mapping shader source directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders to virtual directory /Plugin/OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogStreaming: Display: Took  0.227s to configure plugins.
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.0.2h
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = false  - Libcurl will NOT verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - CertBundlePath = nullptr  - Libcurl will use whatever was configured at build time.
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogInit: Build: ++UE4+Release-4.20-CL-4369336
+LogInit: Engine Version: 4.20.3-4369336+++UE4+Release-4.20
+LogInit: Compatible Engine Version: 4.20.0-4212847+++UE4+Release-4.20
+LogInit: Net CL: 4212847
+LogInit: OS: Windows 10 (), CPU: AMD Ryzen 9 4900HS with Radeon Graphics         , GPU: AMD Radeon(TM) Graphics
+LogInit: Compiled (64-bit): Sep 17 2018 12:26:19
+LogInit: Compiled with Visual C++: 19.13.26129.00
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.20
+LogInit: Command Line:  
+LogInit: Base Directory: C:/Program Files/Epic Games/UE_4.20/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 20
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 2
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 24
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 34
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 2
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 26
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 9
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 2
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 12
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 1
+LogStreaming: Display: Took  0.002s to delete old logs.
+LogInit: Presizing for max 8388607 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+[2024.03.26-19.15.59:724][  0]LogInit: Selected Device Profile: [Windows]
+[2024.03.26-19.15.59:724][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2024.03.26-19.15.59:747][  0]LogHAL: Display: Platform has ~ 16 GB [16556589056 / 17179869184 / 16], which maps to Larger [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2024.03.26-19.15.59:747][  0]LogInit: Setting Device Profile CVar: [[r.Vulkan.UseRealUBs:1]]
+[2024.03.26-19.15.59:747][  0]LogInit: Going up to parent DeviceProfile []
+[2024.03.26-19.15.59:755][  0]LogInit: Computer: LAPTOP-2B5TDV4K
+[2024.03.26-19.15.59:755][  0]LogInit: User: zambi
+[2024.03.26-19.15.59:755][  0]LogInit: CPU Page size=4096, Cores=8
+[2024.03.26-19.15.59:755][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2024.03.26-19.15.59:755][  0]LogMemory: Memory total: Physical=15.4GB (16GB approx)
+[2024.03.26-19.15.59:755][  0]LogMemory: Platform Memory Stats for Windows
+[2024.03.26-19.15.59:755][  0]LogMemory: Process Physical Memory: 102.60 MB used, 102.61 MB peak
+[2024.03.26-19.15.59:755][  0]LogMemory: Process Virtual Memory: 92.40 MB used, 92.40 MB peak
+[2024.03.26-19.15.59:755][  0]LogMemory: Physical Memory: 11628.98 MB used,  4160.61 MB free, 15789.59 MB total
+[2024.03.26-19.15.59:755][  0]LogMemory: Virtual Memory: 4664.31 MB used,  4160.61 MB free, 134217728.00 MB total
+[2024.03.26-19.16.00:067][  0]LogInit: Using OS detected language (en-US).
+[2024.03.26-19.16.00:067][  0]LogInit: Using OS detected locale (en-US).
+[2024.03.26-19.16.00:070][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so the 'en' localization will be used.
+[2024.03.26-19.16.00:461][  0]LogStreaming: Display: Took  0.393s to InitEngineTextLocalization.
+[2024.03.26-19.16.00:462][  0]LogInit: Setting process to per monitor DPI aware
+[2024.03.26-19.16.00:566][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2024.03.26-19.16.00:566][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2024.03.26-19.16.03:722][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2024.03.26-19.16.03:722][  0]LogD3D11RHI: D3D11 adapters:
+[2024.03.26-19.16.03:885][  0]LogD3D11RHI:    0. 'NVIDIA GeForce RTX 2060 with Max-Q Design' (Feature Level 11_0)
+[2024.03.26-19.16.03:885][  0]LogD3D11RHI:       5955/0/7894 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x10de
+[2024.03.26-19.16.03:960][  0]LogD3D11RHI:    1. 'AMD Radeon(TM) Graphics' (Feature Level 11_0)
+[2024.03.26-19.16.03:961][  0]LogD3D11RHI:       495/0/7894 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1002
+[2024.03.26-19.16.03:963][  0]LogD3D11RHI:    2. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2024.03.26-19.16.03:964][  0]LogD3D11RHI:       0/0/7894 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2024.03.26-19.16.03:964][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2024.03.26-19.16.03:995][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2024.03.26-19.16.03:995][  0]LogD3D11RHI:     GPU DeviceId: 0x1f12 (for the marketing name, search the web for "GPU Device Id")
+[2024.03.26-19.16.03:995][  0]LogWindows: EnumDisplayDevices:
+[2024.03.26-19.16.03:996][  0]LogWindows:    0. 'AMD Radeon(TM) Graphics' (P:1 D:1)
+[2024.03.26-19.16.03:996][  0]LogWindows:    1. 'AMD Radeon(TM) Graphics' (P:0 D:0)
+[2024.03.26-19.16.03:996][  0]LogWindows:    2. 'AMD Radeon(TM) Graphics' (P:0 D:0)
+[2024.03.26-19.16.03:997][  0]LogWindows:    3. 'NVIDIA GeForce RTX 2060 with Max-Q Design' (P:0 D:0)
+[2024.03.26-19.16.03:997][  0]LogWindows:    4. 'NVIDIA GeForce RTX 2060 with Max-Q Design' (P:0 D:0)
+[2024.03.26-19.16.03:997][  0]LogWindows:    5. 'NVIDIA GeForce RTX 2060 with Max-Q Design' (P:0 D:0)
+[2024.03.26-19.16.03:997][  0]LogWindows:    6. 'NVIDIA GeForce RTX 2060 with Max-Q Design' (P:0 D:0)
+[2024.03.26-19.16.03:997][  0]LogWindows: DebugString: PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter FoundDriverCount:4 
+[2024.03.26-19.16.03:997][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce RTX 2060 with Max-Q Design
+[2024.03.26-19.16.03:998][  0]LogD3D11RHI:   Driver Version: 551.76 (internal:31.0.15.5176, unified:551.76)
+[2024.03.26-19.16.03:998][  0]LogD3D11RHI:      Driver Date: 3-1-2024
+[2024.03.26-19.16.03:998][  0]LogRHI: Texture pool is 4168 MB (70% of 5955 MB)
+[2024.03.26-19.16.04:124][  0]LogD3D11RHI: Async texture creation enabled
+[2024.03.26-19.16.04:153][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 1)
+[2024.03.26-19.16.04:157][  0]LogShaderCompilers: Guid format shader working directory is -17 characters bigger than the processId version (../../../../../../Users/zambi/Documents/Games/SonicKillsAnime/Intermediate/Shaders/WorkingDirectory/116328/).
+[2024.03.26-19.16.04:157][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/zambi/AppData/Local/Temp/UnrealShaderWorkingDir/BB0225EF4B024E633EB6E2AE56235CD8/'.
+[2024.03.26-19.16.08:804][  0]LogTemp: Display: Loaded TP AllDesktopTargetPlatform
+[2024.03.26-19.16.08:817][  0]LogTemp: Display: Loaded TP MacClientTargetPlatform
+[2024.03.26-19.16.08:831][  0]LogTemp: Display: Loaded TP MacNoEditorTargetPlatform
+[2024.03.26-19.16.08:844][  0]LogTemp: Display: Loaded TP MacServerTargetPlatform
+[2024.03.26-19.16.08:864][  0]LogTemp: Display: Loaded TP MacTargetPlatform
+[2024.03.26-19.16.08:878][  0]LogTemp: Display: Loaded TP WindowsClientTargetPlatform
+[2024.03.26-19.16.08:893][  0]LogTemp: Display: Loaded TP WindowsNoEditorTargetPlatform
+[2024.03.26-19.16.08:907][  0]LogTemp: Display: Loaded TP WindowsServerTargetPlatform
+[2024.03.26-19.16.08:914][  0]LogTemp: Display: Loaded TP WindowsTargetPlatform
+[2024.03.26-19.16.09:010][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2024.03.26-19.16.09:010][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2024.03.26-19.16.09:010][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2024.03.26-19.16.09:010][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2024.03.26-19.16.09:010][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2024.03.26-19.16.09:010][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2024.03.26-19.16.09:010][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2024.03.26-19.16.09:010][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2024.03.26-19.16.09:010][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2024.03.26-19.16.09:010][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2024.03.26-19.16.09:010][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2024.03.26-19.16.09:010][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2024.03.26-19.16.09:010][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2024.03.26-19.16.09:011][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2024.03.26-19.16.09:011][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2024.03.26-19.16.09:011][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2024.03.26-19.16.09:011][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2024.03.26-19.16.09:011][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2024.03.26-19.16.09:014][  0]LogTemp: Display: Loaded TP HTML5TargetPlatform
+[2024.03.26-19.16.09:090][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2024.03.26-19.16.09:090][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2024.03.26-19.16.09:112][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2024.03.26-19.16.09:112][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2024.03.26-19.16.09:126][  0]LogTemp: Display: Loaded TP LinuxClientTargetPlatform
+[2024.03.26-19.16.09:139][  0]LogTemp: Display: Loaded TP LinuxNoEditorTargetPlatform
+[2024.03.26-19.16.09:152][  0]LogTemp: Display: Loaded TP LinuxServerTargetPlatform
+[2024.03.26-19.16.09:177][  0]LogTemp: Display: Loaded TP LinuxTargetPlatform
+[2024.03.26-19.16.09:187][  0]LogTemp: Display: Loaded TP LuminTargetPlatform
+[2024.03.26-19.16.09:187][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2024.03.26-19.16.09:299][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2024.03.26-19.16.09:299][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2024.03.26-19.16.09:299][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2024.03.26-19.16.11:964][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2024.03.26-19.16.12:161][  0]LogDerivedDataCache: Loaded boot cache 0.20s 87MB C:/Users/zambi/AppData/Local/UnrealEngine/4.20/DerivedDataCache/Boot.ddc.
+[2024.03.26-19.16.12:161][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/zambi/AppData/Local/UnrealEngine/4.20/DerivedDataCache/Boot.ddc
+[2024.03.26-19.16.12:161][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../Users/zambi/Documents/Games/SonicKillsAnime/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2024.03.26-19.16.12:161][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2024.03.26-19.16.12:161][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../../Users/zambi/Documents/Games/SonicKillsAnime/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2024.03.26-19.16.12:161][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2024.03.26-19.16.12:192][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2024.03.26-19.16.12:205][  0]LogDerivedDataCache: Using Local data cache path C:/Users/zambi/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2024.03.26-19.16.12:205][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2024.03.26-19.16.12:205][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2024.03.26-19.16.12:229][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2024.03.26-19.16.12:234][  0]LogSlate: Using FreeType 2.6.0
+[2024.03.26-19.16.12:258][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2024.03.26-19.16.12:439][  0]LogAssetRegistry: FAssetRegistry took 0.0308 seconds to start up
+[2024.03.26-19.16.12:952][  0]LogInit: Selected Device Profile: [Windows]
+[2024.03.26-19.16.13:282][  0]LogSimplygon: Simplygon DLL not present - disabling.
+[2024.03.26-19.16.13:295][  0]LogMeshReduction: Using SimplygonSwarm for distributed automatic mesh merging
+[2024.03.26-19.16.13:296][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2024.03.26-19.16.13:296][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2024.03.26-19.16.13:296][  0]LogMeshReduction: No automatic skeletal mesh reduction module available
+[2024.03.26-19.16.13:358][  0]LogNetVersion: SonicKillsAnime 1.0.0, NetCL: 4212847, EngineNetVer: 5, GameNetVer: 0 (Checksum: 1096383356)
+[2024.03.26-19.16.14:759][  0]LogPackageLocalizationCache: Processed 11 localized package path(s) for 2 prioritized culture(s) in 0.171012 seconds
+[2024.03.26-19.16.14:768][  0]LogUObjectArray: 38425 objects as part of root set at end of initial load.
+[2024.03.26-19.16.14:768][  0]LogUObjectAllocator: 6690872 out of 0 bytes used by permanent object pool.
+[2024.03.26-19.16.14:768][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2024.03.26-19.16.16:941][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2024.03.26-19.16.16:958][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2024.03.26-19.16.17:234][  0]SourceControl: Source control is disabled
+[2024.03.26-19.16.17:234][  0]SourceControl: Source control is disabled
+[2024.03.26-19.16.17:242][  0]SourceControl: Source control is disabled
+[2024.03.26-19.16.17:246][  0]SourceControl: Source control is disabled
+[2024.03.26-19.16.17:529][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2024.03.26-19.16.17:672][  0]LogOcInput: OculusInput pre-init called
+[2024.03.26-19.16.17:790][  0]LogEngine: Initializing Engine...
+[2024.03.26-19.16.17:793][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2024.03.26-19.16.17:796][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI prefixes -  0.000 s
+[2024.03.26-19.16.17:796][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2024.03.26-19.16.17:797][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI -  0.000 s
+[2024.03.26-19.16.17:797][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2024.03.26-19.16.18:181][  0]LogInit: Initializing FReadOnlyCVARCache
+[2024.03.26-19.16.18:219][  0]LogAIModule: Creating AISystem for world Untitled
+[2024.03.26-19.16.18:260][  0]LogInit: XAudio2 using 'Headset Earphone (G435 Wireless Gaming Headset)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2024.03.26-19.16.18:279][  0]LogInit: FAudioDevice initialized.
+[2024.03.26-19.16.18:280][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2024.03.26-19.16.18:330][  0]LogDerivedDataCache: Saved boot cache 0.05s 87MB C:/Users/zambi/AppData/Local/UnrealEngine/4.20/DerivedDataCache/Boot.ddc.
+[2024.03.26-19.16.18:336][  0]LogInit: Texture streaming: Enabled
+[2024.03.26-19.16.18:360][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2024.03.26-19.16.18:398][  0]LogInit: Transaction tracking system initialized
+[2024.03.26-19.16.18:444][  0]BlueprintLog: New page: Editor Load
+[2024.03.26-19.16.18:614][  0]LocalizationService: Localization service is disabled
+[2024.03.26-19.16.19:192][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2024.03.26-19.16.19:192][  0]LogCook: Display: Mobile HDR setting 1
+[2024.03.26-19.16.19:192][  0]LogGameplayTags: Display: UGameplayTagsManager::DoneAddingNativeTags. DelegateIsBound: 0
+[2024.03.26-19.16.19:192][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI prefixes -  0.000 s
+[2024.03.26-19.16.19:192][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2024.03.26-19.16.19:193][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI -  0.000 s
+[2024.03.26-19.16.19:193][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2024.03.26-19.16.19:461][  0]LogFileCache: Scanning file cache for directory 'C:/Users/zambi/Documents/Games/SonicKillsAnime/Content/' took 0.04s
+[2024.03.26-19.16.19:486][  0]SourceControl: Source control is disabled
+[2024.03.26-19.16.19:487][  0]Cmd: MAP LOAD FILE="../../../../../../Users/zambi/Documents/Games/SonicKillsAnime/Content/ThirdPersonBP/Maps/Peachs_Castle.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2024.03.26-19.16.19:496][  0]LightingResults: New page: Lighting Build
+[2024.03.26-19.16.19:505][  0]MapCheck: New page: Map Check
+[2024.03.26-19.16.19:505][  0]LightingResults: New page: Lighting Build
+[2024.03.26-19.16.20:383][  0]LogLinker: Warning: Can't find file '/Game/ThirdPersonBP/Blueprints/Enemy/Zombie/Textures/chr_evil_body01_fal'
+[2024.03.26-19.16.20:383][  0]LoadErrors: Failed to load /Game/ThirdPersonBP/Blueprints/Enemy/Zombie/weresonic.weresonic Referenced by CharacterMesh0
+[2024.03.26-19.16.20:384][  0]LogLinker: Warning: Can't find file for asset '/Game/ThirdPersonBP/Blueprints/Enemy/Zombie/Textures/chr_evil_body01_fal' while loading ../../../../../../Users/zambi/Documents/Games/SonicKillsAnime/Content/ThirdPersonBP/Blueprints/Enemy/Zombie/Textures/chr_evil_body01_fal_Mat.uasset.
+[2024.03.26-19.16.20:384][  0]LoadErrors: Failed to load /Game/ThirdPersonBP/Blueprints/Enemy/Zombie/weresonic.weresonic Referenced by CharacterMesh0
+[2024.03.26-19.16.20:384][  0]LoadErrors: Error: /Game/ThirdPersonBP/Blueprints/Enemy/Zombie/Textures/chr_evil_body01_fal_Mat : Can't find file for asset. /Game/ThirdPersonBP/Blueprints/Enemy/Zombie/Textures/chr_evil_body01_fal
+[2024.03.26-19.16.20:384][  0]LogLinker: Warning: Can't find file '/Game/ThirdPersonBP/Blueprints/Enemy/Zombie/Textures/chr_evil_body01_fal'
+[2024.03.26-19.16.20:384][  0]LoadErrors: Failed to load /Game/ThirdPersonBP/Blueprints/Enemy/Zombie/weresonic.weresonic Referenced by CharacterMesh0
+[2024.03.26-19.16.20:384][  0]LogLinker: Warning: Can't find file for asset '/Game/ThirdPersonBP/Blueprints/Enemy/Zombie/Textures/chr_evil_body01_fal' while loading ../../../../../../Users/zambi/Documents/Games/SonicKillsAnime/Content/ThirdPersonBP/Blueprints/Enemy/Zombie/Textures/chr_evil_body01_fal_Mat.uasset.
+[2024.03.26-19.16.20:384][  0]LoadErrors: Failed to load /Game/ThirdPersonBP/Blueprints/Enemy/Zombie/weresonic.weresonic Referenced by CharacterMesh0
+[2024.03.26-19.16.20:384][  0]LoadErrors: Error: /Game/ThirdPersonBP/Blueprints/Enemy/Zombie/Textures/chr_evil_body01_fal_Mat : Can't find file for asset. /Game/ThirdPersonBP/Blueprints/Enemy/Zombie/Textures/chr_evil_body01_fal
+[2024.03.26-19.16.20:563][  0]LogLinker: Warning: Can't find file '/Game/InfinityBladeEffects/Effects/FX_Monsters/FX_Monster_Gruntling/Master/P_BackPack_MuzzleFlash'
+[2024.03.26-19.16.20:563][  0]LoadErrors: Failed to load /Game/InfinityBladeEffects/Effects/FX_Monsters/FX_Monster_Gruntling/Master/P_BackPack_MuzzleFlash Referenced by CharacterMesh0
+[2024.03.26-19.16.20:563][  0]LogLinker: Warning: Can't find file for asset '/Game/InfinityBladeEffects/Effects/FX_Monsters/FX_Monster_Gruntling/Master/P_BackPack_MuzzleFlash' while loading ../../../../../../Users/zambi/Documents/Games/SonicKillsAnime/Content/hud/FPS_HUD.uasset.
+[2024.03.26-19.16.20:563][  0]LoadErrors: Failed to load /Game/InfinityBladeEffects/Effects/FX_Monsters/FX_Monster_Gruntling/Master/P_BackPack_MuzzleFlash Referenced by CharacterMesh0
+[2024.03.26-19.16.20:563][  0]LoadErrors: Error: /Game/hud/FPS_HUD : Can't find file for asset. /Game/InfinityBladeEffects/Effects/FX_Monsters/FX_Monster_Gruntling/Master/P_BackPack_MuzzleFlash
+[2024.03.26-19.16.20:563][  0]LogLinker: Warning: Can't find file '/Game/InfinityBladeEffects/Effects/FX_Monsters/FX_Monster_Gruntling/Master/P_BackPack_MuzzleFlash'
+[2024.03.26-19.16.20:563][  0]LoadErrors: Failed to load /Game/InfinityBladeEffects/Effects/FX_Monsters/FX_Monster_Gruntling/Master/P_BackPack_MuzzleFlash.P_BackPack_MuzzleFlash Referenced by CharacterMesh0
+[2024.03.26-19.16.20:563][  0]LogLinker: Warning: Can't find file for asset '/Game/InfinityBladeEffects/Effects/FX_Monsters/FX_Monster_Gruntling/Master/P_BackPack_MuzzleFlash' while loading ../../../../../../Users/zambi/Documents/Games/SonicKillsAnime/Content/hud/FPS_HUD.uasset.
+[2024.03.26-19.16.20:563][  0]LoadErrors: Failed to load /Game/InfinityBladeEffects/Effects/FX_Monsters/FX_Monster_Gruntling/Master/P_BackPack_MuzzleFlash.P_BackPack_MuzzleFlash Referenced by CharacterMesh0
+[2024.03.26-19.16.20:563][  0]LoadErrors: Error: /Game/hud/FPS_HUD : Can't find file for asset. /Game/InfinityBladeEffects/Effects/FX_Monsters/FX_Monster_Gruntling/Master/P_BackPack_MuzzleFlash
+[2024.03.26-19.16.20:564][  0]LogLinker: Warning: Can't find file '/Game/InfinityBladeEffects/Effects/FX_Monsters/FX_Monster_Gruntling/Master/P_BackPack_MuzzleFlash'
+[2024.03.26-19.16.20:564][  0]LoadErrors: Failed to load /Game/InfinityBladeEffects/Effects/FX_Monsters/FX_Monster_Gruntling/Master/P_BackPack_MuzzleFlash.P_BackPack_MuzzleFlash Referenced by K2Node_CallFunction_2
+[2024.03.26-19.16.20:565][  0]LogLinker: Warning: Can't find file for asset '/Game/InfinityBladeEffects/Effects/FX_Monsters/FX_Monster_Gruntling/Master/P_BackPack_MuzzleFlash' while loading ../../../../../../Users/zambi/Documents/Games/SonicKillsAnime/Content/hud/FPS_HUD.uasset.
+[2024.03.26-19.16.20:565][  0]LoadErrors: Failed to load /Game/InfinityBladeEffects/Effects/FX_Monsters/FX_Monster_Gruntling/Master/P_BackPack_MuzzleFlash.P_BackPack_MuzzleFlash Referenced by K2Node_CallFunction_2
+[2024.03.26-19.16.20:565][  0]LoadErrors: Error: /Game/hud/FPS_HUD : Can't find file for asset. /Game/InfinityBladeEffects/Effects/FX_Monsters/FX_Monster_Gruntling/Master/P_BackPack_MuzzleFlash
+[2024.03.26-19.16.20:569][  0]LogLinker: Warning: Can't find file '/Game/InfinityBladeEffects/Effects/FX_Monsters/FX_Monster_Gruntling/Master/P_BackPack_MuzzleFlash'
+[2024.03.26-19.16.20:569][  0]LoadErrors: Failed to load /Game/ThirdPersonBP/Blueprints/Weapons/RifleAmmoPickup.RifleAmmoPickup_C Referenced by CharacterMesh0
+[2024.03.26-19.16.20:569][  0]LogLinker: Warning: Can't find file for asset '/Game/InfinityBladeEffects/Effects/FX_Monsters/FX_Monster_Gruntling/Master/P_BackPack_MuzzleFlash' while loading ../../../../../../Users/zambi/Documents/Games/SonicKillsAnime/Content/ThirdPersonBP/Blueprints/Weapons/AK47/Weapon_Base.uasset.
+[2024.03.26-19.16.20:569][  0]LoadErrors: Failed to load /Game/ThirdPersonBP/Blueprints/Weapons/RifleAmmoPickup.RifleAmmoPickup_C Referenced by CharacterMesh0
+[2024.03.26-19.16.20:569][  0]LoadErrors: Error: /Game/ThirdPersonBP/Blueprints/Weapons/AK47/Weapon_Base : Can't find file for asset. /Game/InfinityBladeEffects/Effects/FX_Monsters/FX_Monster_Gruntling/Master/P_BackPack_MuzzleFlash
+[2024.03.26-19.16.20:570][  0]LogLinker: Warning: Can't find file '/Game/InfinityBladeEffects/Effects/FX_Monsters/FX_Monster_Gruntling/Master/P_BackPack_MuzzleFlash'
+[2024.03.26-19.16.20:570][  0]LoadErrors: Failed to load /Game/ThirdPersonBP/Blueprints/Weapons/RifleAmmoPickup.RifleAmmoPickup_C Referenced by CharacterMesh0
+[2024.03.26-19.16.20:570][  0]LogLinker: Warning: Can't find file for asset '/Game/InfinityBladeEffects/Effects/FX_Monsters/FX_Monster_Gruntling/Master/P_BackPack_MuzzleFlash' while loading ../../../../../../Users/zambi/Documents/Games/SonicKillsAnime/Content/ThirdPersonBP/Blueprints/Weapons/AK47/Weapon_Base.uasset.
+[2024.03.26-19.16.20:570][  0]LoadErrors: Failed to load /Game/ThirdPersonBP/Blueprints/Weapons/RifleAmmoPickup.RifleAmmoPickup_C Referenced by CharacterMesh0
+[2024.03.26-19.16.20:570][  0]LoadErrors: Error: /Game/ThirdPersonBP/Blueprints/Weapons/AK47/Weapon_Base : Can't find file for asset. /Game/InfinityBladeEffects/Effects/FX_Monsters/FX_Monster_Gruntling/Master/P_BackPack_MuzzleFlash
+[2024.03.26-19.16.20:576][  0]LogLinker: Warning: Can't find file '/Game/InfinityBladeEffects/Effects/FX_Mobile/Impacts/P_Impact_Shield_Fire'
+[2024.03.26-19.16.20:576][  0]LoadErrors: Failed to load /Game/InfinityBladeEffects/Effects/FX_Mobile/Impacts/P_Impact_Shield_Fire Referenced by CharacterMesh0
+[2024.03.26-19.16.20:576][  0]LogLinker: Warning: Can't find file for asset '/Game/InfinityBladeEffects/Effects/FX_Mobile/Impacts/P_Impact_Shield_Fire' while loading ../../../../../../Users/zambi/Documents/Games/SonicKillsAnime/Content/ThirdPersonBP/Blueprints/Enemy/Zombie/AI/AttackAnimation.uasset.
+[2024.03.26-19.16.20:576][  0]LoadErrors: Failed to load /Game/InfinityBladeEffects/Effects/FX_Mobile/Impacts/P_Impact_Shield_Fire Referenced by CharacterMesh0
+[2024.03.26-19.16.20:576][  0]LoadErrors: Error: /Game/ThirdPersonBP/Blueprints/Enemy/Zombie/AI/AttackAnimation : Can't find file for asset. /Game/InfinityBladeEffects/Effects/FX_Mobile/Impacts/P_Impact_Shield_Fire
+[2024.03.26-19.16.20:576][  0]LogLinker: Warning: Can't find file '/Game/InfinityBladeEffects/Effects/FX_Mobile/Impacts/P_Impact_Shield_Fire'
+[2024.03.26-19.16.20:576][  0]LoadErrors: Failed to load /Game/InfinityBladeEffects/Effects/FX_Mobile/Impacts/P_Impact_Shield_Fire.P_Impact_Shield_Fire Referenced by CharacterMesh0
+[2024.03.26-19.16.20:576][  0]LogLinker: Warning: Can't find file for asset '/Game/InfinityBladeEffects/Effects/FX_Mobile/Impacts/P_Impact_Shield_Fire' while loading ../../../../../../Users/zambi/Documents/Games/SonicKillsAnime/Content/ThirdPersonBP/Blueprints/Enemy/Zombie/AI/AttackAnimation.uasset.
+[2024.03.26-19.16.20:576][  0]LoadErrors: Failed to load /Game/InfinityBladeEffects/Effects/FX_Mobile/Impacts/P_Impact_Shield_Fire.P_Impact_Shield_Fire Referenced by CharacterMesh0
+[2024.03.26-19.16.20:576][  0]LoadErrors: Error: /Game/ThirdPersonBP/Blueprints/Enemy/Zombie/AI/AttackAnimation : Can't find file for asset. /Game/InfinityBladeEffects/Effects/FX_Mobile/Impacts/P_Impact_Shield_Fire
+[2024.03.26-19.16.20:578][  0]LogLinker: Warning: Can't find file '/Game/InfinityBladeEffects/Effects/FX_Mobile/Impacts/P_Impact_Shield_Fire'
+[2024.03.26-19.16.20:578][  0]LoadErrors: Failed to load /Game/InfinityBladeEffects/Effects/FX_Mobile/Impacts/P_Impact_Shield_Fire.P_Impact_Shield_Fire Referenced by K2Node_CallFunction_5
+[2024.03.26-19.16.20:578][  0]LogLinker: Warning: Can't find file for asset '/Game/InfinityBladeEffects/Effects/FX_Mobile/Impacts/P_Impact_Shield_Fire' while loading ../../../../../../Users/zambi/Documents/Games/SonicKillsAnime/Content/ThirdPersonBP/Blueprints/Enemy/Zombie/AI/AttackAnimation.uasset.
+[2024.03.26-19.16.20:578][  0]LoadErrors: Failed to load /Game/InfinityBladeEffects/Effects/FX_Mobile/Impacts/P_Impact_Shield_Fire.P_Impact_Shield_Fire Referenced by K2Node_CallFunction_5
+[2024.03.26-19.16.20:578][  0]LoadErrors: Error: /Game/ThirdPersonBP/Blueprints/Enemy/Zombie/AI/AttackAnimation : Can't find file for asset. /Game/InfinityBladeEffects/Effects/FX_Mobile/Impacts/P_Impact_Shield_Fire
+[2024.03.26-19.16.20:651][  0]LogLinker: Warning: Can't find file '/Game/InfinityBladeEffects/Effects/FX_Mobile/Impacts/P_Impact_Shield_Fire'
+[2024.03.26-19.16.20:651][  0]LoadErrors: Failed to load /Game/ThirdPersonBP/Blueprints/Enemy/Zombie/ZombieSpawner.ZombieSpawner_C Referenced by CharacterMesh0
+[2024.03.26-19.16.20:652][  0]LogLinker: Warning: Can't find file for asset '/Game/InfinityBladeEffects/Effects/FX_Mobile/Impacts/P_Impact_Shield_Fire' while loading ../../../../../../Users/zambi/Documents/Games/SonicKillsAnime/Content/ThirdPersonBP/Blueprints/Enemy/Zombie/AI/ZombieAI.uasset.
+[2024.03.26-19.16.20:652][  0]LoadErrors: Failed to load /Game/ThirdPersonBP/Blueprints/Enemy/Zombie/ZombieSpawner.ZombieSpawner_C Referenced by CharacterMesh0
+[2024.03.26-19.16.20:652][  0]LoadErrors: Error: /Game/ThirdPersonBP/Blueprints/Enemy/Zombie/AI/ZombieAI : Can't find file for asset. /Game/InfinityBladeEffects/Effects/FX_Mobile/Impacts/P_Impact_Shield_Fire
+[2024.03.26-19.16.20:653][  0]LogLinker: Warning: Can't find file '/Game/InfinityBladeEffects/Effects/FX_Mobile/Impacts/P_Impact_Shield_Fire'
+[2024.03.26-19.16.20:653][  0]LoadErrors: Failed to load /Game/ThirdPersonBP/Blueprints/Enemy/Zombie/ZombieSpawner.ZombieSpawner_C Referenced by CharacterMesh0
+[2024.03.26-19.16.20:654][  0]LogLinker: Warning: Can't find file for asset '/Game/InfinityBladeEffects/Effects/FX_Mobile/Impacts/P_Impact_Shield_Fire' while loading ../../../../../../Users/zambi/Documents/Games/SonicKillsAnime/Content/ThirdPersonBP/Blueprints/Enemy/Zombie/AI/ZombieAI.uasset.
+[2024.03.26-19.16.20:654][  0]LoadErrors: Failed to load /Game/ThirdPersonBP/Blueprints/Enemy/Zombie/ZombieSpawner.ZombieSpawner_C Referenced by CharacterMesh0
+[2024.03.26-19.16.20:654][  0]LoadErrors: Error: /Game/ThirdPersonBP/Blueprints/Enemy/Zombie/AI/ZombieAI : Can't find file for asset. /Game/InfinityBladeEffects/Effects/FX_Mobile/Impacts/P_Impact_Shield_Fire
+[2024.03.26-19.16.21:374][  0]LogLinker: Warning: Can't find file '/Game/InfinityBladeEffects/Effects/FX_Mobile/Impacts/P_Impact_Shield_Fire'
+[2024.03.26-19.16.21:375][  0]LogLinker: Warning: Can't find file for asset '/Game/InfinityBladeEffects/Effects/FX_Mobile/Impacts/P_Impact_Shield_Fire' while loading ../../../../../../Users/zambi/Documents/Games/SonicKillsAnime/Content/ThirdPersonBP/Blueprints/Enemy/AllMight/AI/AllMightAI.uasset.
+[2024.03.26-19.16.21:375][  0]LoadErrors: Error: /Game/ThirdPersonBP/Blueprints/Enemy/AllMight/AI/AllMightAI : Can't find file for asset. /Game/InfinityBladeEffects/Effects/FX_Mobile/Impacts/P_Impact_Shield_Fire
+[2024.03.26-19.16.21:427][  0]LogLinker: Warning: Can't find file '/Game/InfinityBladeEffects/Effects/FX_Mobile/Impacts/P_Impact_Shield_Fire'
+[2024.03.26-19.16.21:427][  0]LogLinker: Warning: Can't find file for asset '/Game/InfinityBladeEffects/Effects/FX_Mobile/Impacts/P_Impact_Shield_Fire' while loading ../../../../../../Users/zambi/Documents/Games/SonicKillsAnime/Content/ThirdPersonBP/Blueprints/Enemy/AllMight/AI/AllMightAI.uasset.
+[2024.03.26-19.16.21:427][  0]LoadErrors: Error: /Game/ThirdPersonBP/Blueprints/Enemy/AllMight/AI/AllMightAI : Can't find file for asset. /Game/InfinityBladeEffects/Effects/FX_Mobile/Impacts/P_Impact_Shield_Fire
+[2024.03.26-19.16.21:432][  0]LogLinker: Warning: Can't find file '/Game/InfinityBladeEffects/Effects/FX_Mobile/Impacts/P_Impact_Shield_Fire'
+[2024.03.26-19.16.21:432][  0]LogLinker: Warning: Can't find file for asset '/Game/InfinityBladeEffects/Effects/FX_Mobile/Impacts/P_Impact_Shield_Fire' while loading ../../../../../../Users/zambi/Documents/Games/SonicKillsAnime/Content/ThirdPersonBP/Blueprints/Enemy/AllMight/AI/AllMightController.uasset.
+[2024.03.26-19.16.21:432][  0]LoadErrors: Error: /Game/ThirdPersonBP/Blueprints/Enemy/AllMight/AI/AllMightController : Can't find file for asset. /Game/InfinityBladeEffects/Effects/FX_Mobile/Impacts/P_Impact_Shield_Fire
+[2024.03.26-19.16.21:432][  0]LogLinker: Warning: Can't find file '/Game/InfinityBladeEffects/Effects/FX_Mobile/Impacts/P_Impact_Shield_Fire'
+[2024.03.26-19.16.21:432][  0]LogLinker: Warning: Can't find file for asset '/Game/InfinityBladeEffects/Effects/FX_Mobile/Impacts/P_Impact_Shield_Fire' while loading ../../../../../../Users/zambi/Documents/Games/SonicKillsAnime/Content/ThirdPersonBP/Blueprints/Enemy/AllMight/AI/AllMightController.uasset.
+[2024.03.26-19.16.21:432][  0]LoadErrors: Error: /Game/ThirdPersonBP/Blueprints/Enemy/AllMight/AI/AllMightController : Can't find file for asset. /Game/InfinityBladeEffects/Effects/FX_Mobile/Impacts/P_Impact_Shield_Fire
+[2024.03.26-19.16.21:434][  0]LogLinker: Warning: Can't find file '/Game/InfinityBladeEffects/Effects/FX_Mobile/Impacts/P_Impact_Shield_Fire'
+[2024.03.26-19.16.21:434][  0]LoadErrors: Failed to load /Game/InfinityBladeEffects/Effects/FX_Mobile/Impacts/P_Impact_Shield_Fire.P_Impact_Shield_Fire Referenced by K2Node_CallFunction_5
+[2024.03.26-19.16.21:435][  0]LogLinker: Warning: Can't find file for asset '/Game/InfinityBladeEffects/Effects/FX_Mobile/Impacts/P_Impact_Shield_Fire' while loading ../../../../../../Users/zambi/Documents/Games/SonicKillsAnime/Content/ThirdPersonBP/Blueprints/Enemy/AllMight/AI/AllMightController.uasset.
+[2024.03.26-19.16.21:435][  0]LoadErrors: Failed to load /Game/InfinityBladeEffects/Effects/FX_Mobile/Impacts/P_Impact_Shield_Fire.P_Impact_Shield_Fire Referenced by K2Node_CallFunction_5
+[2024.03.26-19.16.21:435][  0]LoadErrors: Error: /Game/ThirdPersonBP/Blueprints/Enemy/AllMight/AI/AllMightController : Can't find file for asset. /Game/InfinityBladeEffects/Effects/FX_Mobile/Impacts/P_Impact_Shield_Fire
+[2024.03.26-19.16.21:552][  0]LogLinker: Warning: Can't find file '/Game/ThirdPersonBP/Blueprints/Enemy/Jotaro/JotaroSpawnpoint'
+[2024.03.26-19.16.21:552][  0]LogLinker: Warning: Can't find file for asset '/Game/ThirdPersonBP/Blueprints/Enemy/Jotaro/JotaroSpawnpoint' while loading ../../../../../../Users/zambi/Documents/Games/SonicKillsAnime/Content/ThirdPersonBP/Maps/Peachs_Castle.umap.
+[2024.03.26-19.16.21:552][  0]LoadErrors: Error: /Game/ThirdPersonBP/Maps/Peachs_Castle : Can't find file for asset. /Game/ThirdPersonBP/Blueprints/Enemy/Jotaro/JotaroSpawnpoint
+[2024.03.26-19.16.21:561][  0]LogLinker: Warning: Can't find file '/Game/ThirdPersonBP/Blueprints/Enemy/Luffy/AI/LuffyTree'
+[2024.03.26-19.16.21:561][  0]LogLinker: Warning: Can't find file for asset '/Game/ThirdPersonBP/Blueprints/Enemy/Luffy/AI/LuffyTree' while loading ../../../../../../Users/zambi/Documents/Games/SonicKillsAnime/Content/ThirdPersonBP/Blueprints/Enemy/Luffy/LuffySpawnpoint.uasset.
+[2024.03.26-19.16.21:561][  0]LoadErrors: Error: /Game/ThirdPersonBP/Blueprints/Enemy/Luffy/LuffySpawnpoint : Can't find file for asset. /Game/ThirdPersonBP/Blueprints/Enemy/Luffy/AI/LuffyTree
+[2024.03.26-19.16.21:562][  0]LogLinker: Warning: Can't find file '/Game/ThirdPersonBP/Blueprints/Enemy/Luffy/AI/LuffyAI'
+[2024.03.26-19.16.21:562][  0]LogLinker: Warning: Can't find file for asset '/Game/ThirdPersonBP/Blueprints/Enemy/Luffy/AI/LuffyAI' while loading ../../../../../../Users/zambi/Documents/Games/SonicKillsAnime/Content/ThirdPersonBP/Blueprints/Enemy/Luffy/LuffySpawnpoint.uasset.
+[2024.03.26-19.16.21:562][  0]LoadErrors: Error: /Game/ThirdPersonBP/Blueprints/Enemy/Luffy/LuffySpawnpoint : Can't find file for asset. /Game/ThirdPersonBP/Blueprints/Enemy/Luffy/AI/LuffyAI
+[2024.03.26-19.16.21:563][  0]LogLinker: Warning: Can't find file '/Game/ThirdPersonBP/Blueprints/Enemy/Luffy/AI/LuffyAI'
+[2024.03.26-19.16.21:564][  0]LogLinker: Warning: Can't find file for asset '/Game/ThirdPersonBP/Blueprints/Enemy/Luffy/AI/LuffyAI' while loading ../../../../../../Users/zambi/Documents/Games/SonicKillsAnime/Content/ThirdPersonBP/Blueprints/Enemy/Luffy/LuffySpawnpoint.uasset.
+[2024.03.26-19.16.21:564][  0]LoadErrors: Error: /Game/ThirdPersonBP/Blueprints/Enemy/Luffy/LuffySpawnpoint : Can't find file for asset. /Game/ThirdPersonBP/Blueprints/Enemy/Luffy/AI/LuffyAI
+[2024.03.26-19.16.21:564][  0]LogLinker: Warning: Can't find file '/Game/ThirdPersonBP/Blueprints/Enemy/Luffy/AI/LuffyTree'
+[2024.03.26-19.16.21:564][  0]LogLinker: Warning: Can't find file for asset '/Game/ThirdPersonBP/Blueprints/Enemy/Luffy/AI/LuffyTree' while loading ../../../../../../Users/zambi/Documents/Games/SonicKillsAnime/Content/ThirdPersonBP/Blueprints/Enemy/Luffy/LuffySpawnpoint.uasset.
+[2024.03.26-19.16.21:564][  0]LoadErrors: Error: /Game/ThirdPersonBP/Blueprints/Enemy/Luffy/LuffySpawnpoint : Can't find file for asset. /Game/ThirdPersonBP/Blueprints/Enemy/Luffy/AI/LuffyTree
+[2024.03.26-19.16.21:565][  0]LogLinker: Warning: Can't find file '/Game/ThirdPersonBP/Blueprints/Enemy/Luffy/AI/LuffyTree'
+[2024.03.26-19.16.21:565][  0]LogLinker: Warning: Can't find file for asset '/Game/ThirdPersonBP/Blueprints/Enemy/Luffy/AI/LuffyTree' while loading ../../../../../../Users/zambi/Documents/Games/SonicKillsAnime/Content/ThirdPersonBP/Maps/Peachs_Castle.umap.
+[2024.03.26-19.16.21:565][  0]LoadErrors: Error: /Game/ThirdPersonBP/Maps/Peachs_Castle : Can't find file for asset. /Game/ThirdPersonBP/Blueprints/Enemy/Luffy/AI/LuffyTree
+[2024.03.26-19.16.21:565][  0]LogLinker: Warning: Can't find file '/Game/ThirdPersonBP/Blueprints/Enemy/Luffy/AI/LuffyAI'
+[2024.03.26-19.16.21:566][  0]LogLinker: Warning: Can't find file for asset '/Game/ThirdPersonBP/Blueprints/Enemy/Luffy/AI/LuffyAI' while loading ../../../../../../Users/zambi/Documents/Games/SonicKillsAnime/Content/ThirdPersonBP/Maps/Peachs_Castle.umap.
+[2024.03.26-19.16.21:566][  0]LoadErrors: Error: /Game/ThirdPersonBP/Maps/Peachs_Castle : Can't find file for asset. /Game/ThirdPersonBP/Blueprints/Enemy/Luffy/AI/LuffyAI
+[2024.03.26-19.16.21:566][  0]LogLinker: Warning: Can't find file '/Game/ThirdPersonBP/Blueprints/Enemy/Luffy/AI/LuffyAI'
+[2024.03.26-19.16.21:566][  0]LogLinker: Warning: Can't find file for asset '/Game/ThirdPersonBP/Blueprints/Enemy/Luffy/AI/LuffyAI' while loading ../../../../../../Users/zambi/Documents/Games/SonicKillsAnime/Content/ThirdPersonBP/Maps/Peachs_Castle.umap.
+[2024.03.26-19.16.21:566][  0]LoadErrors: Error: /Game/ThirdPersonBP/Maps/Peachs_Castle : Can't find file for asset. /Game/ThirdPersonBP/Blueprints/Enemy/Luffy/AI/LuffyAI
+[2024.03.26-19.16.21:566][  0]LogLinker: Warning: Can't find file '/Game/ThirdPersonBP/Blueprints/Enemy/Luffy/AI/LuffyTree'
+[2024.03.26-19.16.21:566][  0]LogLinker: Warning: Can't find file for asset '/Game/ThirdPersonBP/Blueprints/Enemy/Luffy/AI/LuffyTree' while loading ../../../../../../Users/zambi/Documents/Games/SonicKillsAnime/Content/ThirdPersonBP/Maps/Peachs_Castle.umap.
+[2024.03.26-19.16.21:566][  0]LoadErrors: Error: /Game/ThirdPersonBP/Maps/Peachs_Castle : Can't find file for asset. /Game/ThirdPersonBP/Blueprints/Enemy/Luffy/AI/LuffyTree
+[2024.03.26-19.16.21:567][  0]LogLinker: Warning: Can't find file '/Game/ThirdPersonBP/Blueprints/Enemy/Luffy/AI/LuffyAI'
+[2024.03.26-19.16.21:567][  0]LoadErrors: Failed to load /Game/ThirdPersonBP/Blueprints/Enemy/Luffy/AI/LuffyAI.LuffyAI_C Referenced by K2Node_CallFunction_1
+[2024.03.26-19.16.21:567][  0]LogLinker: Warning: Can't find file for asset '/Game/ThirdPersonBP/Blueprints/Enemy/Luffy/AI/LuffyAI' while loading ../../../../../../Users/zambi/Documents/Games/SonicKillsAnime/Content/ThirdPersonBP/Maps/Peachs_Castle.umap.
+[2024.03.26-19.16.21:567][  0]LoadErrors: Failed to load /Game/ThirdPersonBP/Blueprints/Enemy/Luffy/AI/LuffyAI.LuffyAI_C Referenced by K2Node_CallFunction_1
+[2024.03.26-19.16.21:568][  0]LoadErrors: Error: /Game/ThirdPersonBP/Maps/Peachs_Castle : Can't find file for asset. /Game/ThirdPersonBP/Blueprints/Enemy/Luffy/AI/LuffyAI
+[2024.03.26-19.16.21:568][  0]LogLinker: Warning: Can't find file '/Game/ThirdPersonBP/Blueprints/Enemy/Luffy/AI/LuffyTree'
+[2024.03.26-19.16.21:568][  0]LoadErrors: Failed to load /Game/ThirdPersonBP/Blueprints/Enemy/Luffy/AI/LuffyTree.LuffyTree Referenced by K2Node_CallFunction_1
+[2024.03.26-19.16.21:568][  0]LogLinker: Warning: Can't find file for asset '/Game/ThirdPersonBP/Blueprints/Enemy/Luffy/AI/LuffyTree' while loading ../../../../../../Users/zambi/Documents/Games/SonicKillsAnime/Content/ThirdPersonBP/Maps/Peachs_Castle.umap.
+[2024.03.26-19.16.21:568][  0]LoadErrors: Failed to load /Game/ThirdPersonBP/Blueprints/Enemy/Luffy/AI/LuffyTree.LuffyTree Referenced by K2Node_CallFunction_1
+[2024.03.26-19.16.21:568][  0]LoadErrors: Error: /Game/ThirdPersonBP/Maps/Peachs_Castle : Can't find file for asset. /Game/ThirdPersonBP/Blueprints/Enemy/Luffy/AI/LuffyTree
+[2024.03.26-19.16.21:990][  0]LogLinker: Warning: Can't find file '/Game/ThirdPersonBP/Blueprints/Enemy/Jotaro/JotaroSpawnpoint'
+[2024.03.26-19.16.21:990][  0]LogLinker: Warning: Can't find file for asset '/Game/ThirdPersonBP/Blueprints/Enemy/Jotaro/JotaroSpawnpoint' while loading ../../../../../../Users/zambi/Documents/Games/SonicKillsAnime/Content/ThirdPersonBP/Maps/Peachs_Castle.umap.
+[2024.03.26-19.16.21:990][  0]LoadErrors: Error: /Game/ThirdPersonBP/Maps/Peachs_Castle : Can't find file for asset. /Game/ThirdPersonBP/Blueprints/Enemy/Jotaro/JotaroSpawnpoint
+[2024.03.26-19.16.21:991][  0]LogLinker: Warning: Can't find file '/Game/ThirdPersonBP/Blueprints/Enemy/Jotaro/JotaroSpawnpoint'
+[2024.03.26-19.16.21:991][  0]LogLinker: Warning: Can't find file for asset '/Game/ThirdPersonBP/Blueprints/Enemy/Jotaro/JotaroSpawnpoint' while loading ../../../../../../Users/zambi/Documents/Games/SonicKillsAnime/Content/ThirdPersonBP/Maps/Peachs_Castle.umap.
+[2024.03.26-19.16.21:991][  0]LoadErrors: Error: /Game/ThirdPersonBP/Maps/Peachs_Castle : Can't find file for asset. /Game/ThirdPersonBP/Blueprints/Enemy/Jotaro/JotaroSpawnpoint
+[2024.03.26-19.16.21:999][  0]LogLinker: Warning: Can't find file '/Game/ThirdPersonBP/Blueprints/Enemy/Jotaro/JotaroSpawnpoint'
+[2024.03.26-19.16.21:999][  0]LogLinker: Warning: Can't find file for asset '/Game/ThirdPersonBP/Blueprints/Enemy/Jotaro/JotaroSpawnpoint' while loading NULL.
+[2024.03.26-19.16.21:999][  0]LogLinker: Warning: Can't find file '/Game/ThirdPersonBP/Blueprints/Enemy/Jotaro/JotaroSpawnpoint'
+[2024.03.26-19.16.21:999][  0]LogLinker: Warning: Can't find file for asset '/Game/ThirdPersonBP/Blueprints/Enemy/Jotaro/JotaroSpawnpoint' while loading NULL.
+[2024.03.26-19.16.22:000][  0]LogLinker: Warning: Can't find file '/Game/ThirdPersonBP/Blueprints/Enemy/Jotaro/JotaroSpawnpoint'
+[2024.03.26-19.16.22:000][  0]LogLinker: Warning: Can't find file for asset '/Game/ThirdPersonBP/Blueprints/Enemy/Jotaro/JotaroSpawnpoint' while loading NULL.
+[2024.03.26-19.16.22:012][  0]LogLinker: Warning: Can't find file '/Game/ThirdPersonBP/Blueprints/Enemy/Jotaro/JotaroSpawnpoint'
+[2024.03.26-19.16.22:012][  0]LogLinker: Warning: Can't find file for asset '/Game/ThirdPersonBP/Blueprints/Enemy/Jotaro/JotaroSpawnpoint' while loading NULL.
+[2024.03.26-19.16.22:013][  0]LogLinker: Warning: Can't find file '/Game/ThirdPersonBP/Blueprints/Enemy/Jotaro/JotaroSpawnpoint'
+[2024.03.26-19.16.22:013][  0]LogLinker: Warning: Can't find file for asset '/Game/ThirdPersonBP/Blueprints/Enemy/Jotaro/JotaroSpawnpoint' while loading NULL.
+[2024.03.26-19.16.22:146][  0]LogTexture: Display: Building textures: BRS_base (AutoDXT, 1024X1024)
+[2024.03.26-19.16.22:146][  0]LogTexture: Display: Building textures: HQ_Lightmap0_4 (AutoDXT, 64X64)
+[2024.03.26-19.16.22:146][  0]LogTexture: Display: Building textures: HQ_Lightmap0_2 (AutoDXT, 128X128)
+[2024.03.26-19.16.22:146][  0]LogTexture: Display: Building textures: HQ_Lightmap0_3 (AutoDXT, 128X128)
+[2024.03.26-19.16.22:146][  0]LogTexture: Display: Building textures: LQ_Lightmap_0_4 (DXT1, 64X64)
+[2024.03.26-19.16.22:146][  0]LogTexture: Display: Building textures: LQ_Lightmap_0_2 (DXT1, 128X128)
+[2024.03.26-19.16.22:146][  0]LogTexture: Display: Building textures: LQ_Lightmap_0_3 (DXT1, 128X128)
+[2024.03.26-19.16.22:146][  0]LogTexture: Display: Building textures: HQ_Lightmap0_1 (AutoDXT, 512X512)
+[2024.03.26-19.16.22:146][  0]LogTexture: Display: Building textures: LQ_Lightmap_0_1 (DXT1, 512X512)
+[2024.03.26-19.16.22:146][  0]LogLinker: Warning: Can't find file '/Game/ThirdPersonBP/Blueprints/Enemy/Zombie/Textures/chr_evil_body01_fal'
+[2024.03.26-19.16.22:146][  0]LoadErrors: Failed to load /Game/ThirdPersonBP/Blueprints/Enemy/Zombie/Textures/chr_evil_body01_fal.chr_evil_body01_fal Referenced by MaterialExpressionTextureSample_0
+[2024.03.26-19.16.22:147][  0]LogLinker: Warning: Can't find file for asset '/Game/ThirdPersonBP/Blueprints/Enemy/Zombie/Textures/chr_evil_body01_fal' while loading NULL.
+[2024.03.26-19.16.22:147][  0]LoadErrors: Failed to load /Game/ThirdPersonBP/Blueprints/Enemy/Zombie/Textures/chr_evil_body01_fal.chr_evil_body01_fal Referenced by MaterialExpressionTextureSample_0
+[2024.03.26-19.16.22:334][  0]LogTexture: Display: Building textures: ShadowMapTexture2D_12 (G8, 64X64)
+[2024.03.26-19.16.22:335][  0]LogTexture: Display: Building textures: ShadowMapTexture2D_11 (BGRA8, 64X64)
+[2024.03.26-19.16.22:335][  0]LogTexture: Display: Building textures: ShadowMapTexture2D_13 (G8, 32X32)
+[2024.03.26-19.16.22:335][  0]LogTexture: Display: Building textures: ShadowMapTexture2D_10 (BGRA8, 1024X128)
+[2024.03.26-19.16.22:335][  0]LogTexture: Display: Building textures: RedVignette (AutoDXT, 960X540)
+[2024.03.26-19.16.22:335][  0]LogTexture: Display: Building textures: chr_evil_fur01_dif (AutoDXT, 256X256)
+[2024.03.26-19.16.22:335][  0]LogTexture: Display: Building textures: chr_evil_body01_dif (AutoDXT, 256X256)
+[2024.03.26-19.16.22:335][  0]LogTexture: Display: Building textures: chr_evil_eye_dif (AutoDXT, 256X256)
+[2024.03.26-19.16.22:335][  0]LogTexture: Display: Building textures: rocket_metal (AutoDXT, 64X64)
+[2024.03.26-19.16.22:335][  0]LogTexture: Display: Building textures: chr_evil_shoes01_dif (AutoDXT, 256X256)
+[2024.03.26-19.16.22:335][  0]LogTexture: Display: Building textures: AK_specular (AutoDXT, 2048X2048)
+[2024.03.26-19.16.22:335][  0]LogMaterial: Display: Missing cached shader map for material material_0mat, compiling. 
+[2024.03.26-19.16.22:437][  0]LogShaderCompilers: Display: Shaders left to compile 60
+[2024.03.26-19.16.22:437][  0]LogShaderCompilers: Display: Shaders left to compile 50
+[2024.03.26-19.16.22:437][  0]LogShaderCompilers: Display: Shaders left to compile 40
+[2024.03.26-19.16.22:437][  0]LogShaderCompilers: Display: Shaders left to compile 30
+[2024.03.26-19.16.22:437][  0]LogShaderCompilers: Display: Shaders left to compile 20
+[2024.03.26-19.16.22:437][  0]LogShaderCompilers: Display: Shaders left to compile 10
+[2024.03.26-19.16.22:437][  0]LogMaterial: Display: Missing cached shader map for material material_0_TNN_base_tga_001mat, compiling. 
+[2024.03.26-19.16.22:482][  0]LogTexture: Display: Building textures: AK_normal (BC5, 2048X2048)
+[2024.03.26-19.16.22:482][  0]LogMaterial: Display: Missing cached shader map for material material_0_NONEmat, compiling. 
+[2024.03.26-19.16.22:538][  0]LogSkeletalMesh: Building Skeletal Mesh AllMight...
+[2024.03.26-19.16.22:745][  0]LogShaderCompilers: Display: Shaders left to compile 120
+[2024.03.26-19.16.22:745][  0]LogShaderCompilers: Display: Shaders left to compile 110
+[2024.03.26-19.16.22:745][  0]LogShaderCompilers: Display: Shaders left to compile 100
+[2024.03.26-19.16.22:745][  0]LogShaderCompilers: Display: Shaders left to compile 90
+[2024.03.26-19.16.22:745][  0]LogShaderCompilers: Display: Shaders left to compile 80
+[2024.03.26-19.16.22:745][  0]LogShaderCompilers: Display: Shaders left to compile 70
+[2024.03.26-19.16.22:745][  0]LogShaderCompilers: Display: Shaders left to compile 60
+[2024.03.26-19.16.22:745][  0]LogTexture: Display: Building textures: AK_diffuse (AutoDXT, 2048X2048)
+[2024.03.26-19.16.22:745][  0]LogTexture: Display: Building textures: pla_sonic_clothes_dif (AutoDXT, 2048X2048)
+[2024.03.26-19.16.22:745][  0]LogSkeletalMesh: Built Skeletal Mesh [0.21s] /Game/ThirdPersonBP/Blueprints/Enemy/AllMight/AllMight.AllMight
+[2024.03.26-19.16.40:541][  0]LogTexture: Display: Building textures: pla_sonic_body_dif (AutoDXT, 2048X2048)
+[2024.03.26-19.16.40:546][  0]LogTexture: Display: Building textures: TreeAtlas (AutoDXT, 4096X4096)
+[2024.03.26-19.16.40:546][  0]LogTexture: Display: Building textures: GardenAtlas (AutoDXT, 8192X8192)
+[2024.03.26-19.16.40:546][  0]LogShaderCompilers: Display: Shaders left to compile 50
+[2024.03.26-19.16.40:546][  0]LogShaderCompilers: Display: Shaders left to compile 40
+[2024.03.26-19.16.40:546][  0]LogShaderCompilers: Display: Shaders left to compile 30
+[2024.03.26-19.16.40:546][  0]LogShaderCompilers: Display: Shaders left to compile 20
+[2024.03.26-19.16.40:546][  0]LogShaderCompilers: Display: Shaders left to compile 10
+[2024.03.26-19.16.40:546][  0]LogTexture: Display: Building textures: Windows (AutoDXT, 1024X1024)
+[2024.03.26-19.16.40:546][  0]LogTexture: Display: Building textures: SKYBOX_sphere (AutoDXT, 2000X2000)
+[2024.03.26-19.16.40:546][  0]LogTexture: Display: Building textures: pla_sonic_eye_dif (AutoDXT, 2048X2048)
+[2024.03.26-19.16.40:546][  0]LogTexture: Display: Building textures: CastleAtlas_lit (AutoDXT, 8192X8192)
+[2024.03.26-19.16.40:683][  0]LogStaticMesh: Building static mesh a2da79bf30c64b0799b228c7e494fb0c_Grass...
+[2024.03.26-19.16.40:968][  0]LogStaticMesh: Built static mesh [0.29s] /Game/Props/a2da79bf30c64b0799b228c7e494fb0c_Grass.a2da79bf30c64b0799b228c7e494fb0c_Grass
+[2024.03.26-19.16.41:056][  0]LogMaterial: Display: Missing cached shader map for material GardenAtlas_Mat, compiling. 
+[2024.03.26-19.16.41:226][  0]LogShaderCompilers: Display: Shaders left to compile 31
+[2024.03.26-19.16.41:226][  0]LogShaderCompilers: Display: Shaders left to compile 21
+[2024.03.26-19.16.41:226][  0]LogShaderCompilers: Display: Shaders left to compile 11
+[2024.03.26-19.16.41:226][  0]LogShaderCompilers: Display: Shaders left to compile 1
+[2024.03.26-19.16.41:226][  0]LogStaticMesh: Building static mesh a2da79bf30c64b0799b228c7e494fb0c_Castle...
+[2024.03.26-19.16.41:791][  0]LogStaticMesh: Built static mesh [0.57s] /Game/Props/a2da79bf30c64b0799b228c7e494fb0c_Castle.a2da79bf30c64b0799b228c7e494fb0c_Castle
+[2024.03.26-19.16.41:998][  0]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/ThirdPersonBP/Sonic/SonicDeath.SonicDeath
+[2024.03.26-19.16.41:999][  0]LogAnimationCompression: Recompressing (AnimSequence /Game/ThirdPersonBP/Sonic/SonicDeath.SonicDeath) using current/default (AnimCompress_BitwiseCompressOnly_1) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2024.03.26-19.16.42:015][  0]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/ThirdPersonBP/Sonic/idle_crouching_aiming.idle_crouching_aiming
+[2024.03.26-19.16.42:016][  0]LogAnimationCompression: Recompressing (AnimSequence /Game/ThirdPersonBP/Sonic/idle_crouching_aiming.idle_crouching_aiming) using current/default (AnimCompress_BitwiseCompressOnly_0) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2024.03.26-19.16.42:024][  0]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/ThirdPersonBP/Sonic/Walk_Crouching_Backward.Walk_Crouching_Backward
+[2024.03.26-19.16.42:024][  0]LogAnimationCompression: Recompressing (AnimSequence /Game/ThirdPersonBP/Sonic/Walk_Crouching_Backward.Walk_Crouching_Backward) using current/default (AnimCompress_BitwiseCompressOnly_0) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2024.03.26-19.16.42:030][  0]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/ThirdPersonBP/Sonic/jump_down.jump_down
+[2024.03.26-19.16.42:030][  0]LogAnimationCompression: Recompressing (AnimSequence /Game/ThirdPersonBP/Sonic/jump_down.jump_down) using current/default (AnimCompress_BitwiseCompressOnly_0) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2024.03.26-19.16.42:032][  0]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/ThirdPersonBP/Sonic/Walk_Crouching_Forward_Right.Walk_Crouching_Forward_Right
+[2024.03.26-19.16.42:032][  0]LogAnimationCompression: Recompressing (AnimSequence /Game/ThirdPersonBP/Sonic/Walk_Crouching_Forward_Right.Walk_Crouching_Forward_Right) using current/default (AnimCompress_BitwiseCompressOnly_0) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2024.03.26-19.16.42:033][  0]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/ThirdPersonBP/Sonic/Walk_Crouching_Forward.Walk_Crouching_Forward
+[2024.03.26-19.16.42:033][  0]LogAnimationCompression: Recompressing (AnimSequence /Game/ThirdPersonBP/Sonic/Walk_Crouching_Forward.Walk_Crouching_Forward) using current/default (AnimCompress_BitwiseCompressOnly_0) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2024.03.26-19.16.42:037][  0]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/ThirdPersonBP/Sonic/Walk_Crouching_Forward_Left.Walk_Crouching_Forward_Left
+[2024.03.26-19.16.42:038][  0]LogAnimationCompression: Recompressing (AnimSequence /Game/ThirdPersonBP/Sonic/Walk_Crouching_Forward_Left.Walk_Crouching_Forward_Left) using current/default (AnimCompress_BitwiseCompressOnly_0) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2024.03.26-19.16.42:283][  0]LogStaticMesh: Building static mesh a2da79bf30c64b0799b228c7e494fb0c_Skybox...
+[2024.03.26-19.16.42:290][  0]LogStaticMesh: Built static mesh [0.01s] /Game/Props/a2da79bf30c64b0799b228c7e494fb0c_Skybox.a2da79bf30c64b0799b228c7e494fb0c_Skybox
+[2024.03.26-19.16.42:297][  0]LogStaticMesh: Building static mesh a2da79bf30c64b0799b228c7e494fb0c_Tree_001...
+[2024.03.26-19.16.42:326][  0]LogStaticMesh: Built static mesh [0.03s] /Game/Props/a2da79bf30c64b0799b228c7e494fb0c_Tree_001.a2da79bf30c64b0799b228c7e494fb0c_Tree_001
+[2024.03.26-19.16.42:334][  0]LogStaticMesh: Building static mesh a2da79bf30c64b0799b228c7e494fb0c_Tree_002...
+[2024.03.26-19.16.42:355][  0]LogStaticMesh: Built static mesh [0.02s] /Game/Props/a2da79bf30c64b0799b228c7e494fb0c_Tree_002.a2da79bf30c64b0799b228c7e494fb0c_Tree_002
+[2024.03.26-19.16.42:363][  0]LogStaticMesh: Building static mesh a2da79bf30c64b0799b228c7e494fb0c_Tree_003...
+[2024.03.26-19.16.42:387][  0]LogStaticMesh: Built static mesh [0.02s] /Game/Props/a2da79bf30c64b0799b228c7e494fb0c_Tree_003.a2da79bf30c64b0799b228c7e494fb0c_Tree_003
+[2024.03.26-19.16.42:395][  0]LogStaticMesh: Building static mesh a2da79bf30c64b0799b228c7e494fb0c_Tree_004...
+[2024.03.26-19.16.42:417][  0]LogStaticMesh: Built static mesh [0.02s] /Game/Props/a2da79bf30c64b0799b228c7e494fb0c_Tree_004.a2da79bf30c64b0799b228c7e494fb0c_Tree_004
+[2024.03.26-19.16.42:426][  0]LogStaticMesh: Building static mesh a2da79bf30c64b0799b228c7e494fb0c_Tree_005...
+[2024.03.26-19.16.42:449][  0]LogStaticMesh: Built static mesh [0.02s] /Game/Props/a2da79bf30c64b0799b228c7e494fb0c_Tree_005.a2da79bf30c64b0799b228c7e494fb0c_Tree_005
+[2024.03.26-19.16.42:458][  0]LogStaticMesh: Building static mesh a2da79bf30c64b0799b228c7e494fb0c_Tree_006...
+[2024.03.26-19.16.42:481][  0]LogStaticMesh: Built static mesh [0.02s] /Game/Props/a2da79bf30c64b0799b228c7e494fb0c_Tree_006.a2da79bf30c64b0799b228c7e494fb0c_Tree_006
+[2024.03.26-19.16.42:490][  0]LogStaticMesh: Building static mesh a2da79bf30c64b0799b228c7e494fb0c_Tree_007...
+[2024.03.26-19.16.42:512][  0]LogStaticMesh: Built static mesh [0.02s] /Game/Props/a2da79bf30c64b0799b228c7e494fb0c_Tree_007.a2da79bf30c64b0799b228c7e494fb0c_Tree_007
+[2024.03.26-19.16.42:520][  0]LogStaticMesh: Building static mesh a2da79bf30c64b0799b228c7e494fb0c_Tree_008...
+[2024.03.26-19.16.42:542][  0]LogStaticMesh: Built static mesh [0.02s] /Game/Props/a2da79bf30c64b0799b228c7e494fb0c_Tree_008.a2da79bf30c64b0799b228c7e494fb0c_Tree_008
+[2024.03.26-19.16.42:549][  0]LogStaticMesh: Building static mesh a2da79bf30c64b0799b228c7e494fb0c_Tree_009...
+[2024.03.26-19.16.42:571][  0]LogStaticMesh: Built static mesh [0.02s] /Game/Props/a2da79bf30c64b0799b228c7e494fb0c_Tree_009.a2da79bf30c64b0799b228c7e494fb0c_Tree_009
+[2024.03.26-19.16.42:581][  0]LogStaticMesh: Building static mesh a2da79bf30c64b0799b228c7e494fb0c_Tree_010...
+[2024.03.26-19.16.42:603][  0]LogStaticMesh: Built static mesh [0.02s] /Game/Props/a2da79bf30c64b0799b228c7e494fb0c_Tree_010.a2da79bf30c64b0799b228c7e494fb0c_Tree_010
+[2024.03.26-19.16.42:615][  0]LogStaticMesh: Building static mesh a2da79bf30c64b0799b228c7e494fb0c_Tree_011...
+[2024.03.26-19.16.42:636][  0]LogStaticMesh: Built static mesh [0.02s] /Game/Props/a2da79bf30c64b0799b228c7e494fb0c_Tree_011.a2da79bf30c64b0799b228c7e494fb0c_Tree_011
+[2024.03.26-19.16.42:644][  0]LogStaticMesh: Building static mesh a2da79bf30c64b0799b228c7e494fb0c_Tree_012...
+[2024.03.26-19.16.42:666][  0]LogStaticMesh: Built static mesh [0.02s] /Game/Props/a2da79bf30c64b0799b228c7e494fb0c_Tree_012.a2da79bf30c64b0799b228c7e494fb0c_Tree_012
+[2024.03.26-19.16.42:673][  0]LogStaticMesh: Building static mesh a2da79bf30c64b0799b228c7e494fb0c_Tree_013...
+[2024.03.26-19.16.42:696][  0]LogStaticMesh: Built static mesh [0.02s] /Game/Props/a2da79bf30c64b0799b228c7e494fb0c_Tree_013.a2da79bf30c64b0799b228c7e494fb0c_Tree_013
+[2024.03.26-19.16.42:705][  0]LogStaticMesh: Building static mesh a2da79bf30c64b0799b228c7e494fb0c_Tree_014...
+[2024.03.26-19.16.42:727][  0]LogStaticMesh: Built static mesh [0.02s] /Game/Props/a2da79bf30c64b0799b228c7e494fb0c_Tree_014.a2da79bf30c64b0799b228c7e494fb0c_Tree_014
+[2024.03.26-19.16.42:758][  0]LogStaticMesh: Building static mesh a2da79bf30c64b0799b228c7e494fb0c_Tree_015...
+[2024.03.26-19.16.42:781][  0]LogStaticMesh: Built static mesh [0.02s] /Game/Props/a2da79bf30c64b0799b228c7e494fb0c_Tree_015.a2da79bf30c64b0799b228c7e494fb0c_Tree_015
+[2024.03.26-19.16.42:837][  0]LogStaticMesh: Building static mesh a2da79bf30c64b0799b228c7e494fb0c_Tree_016...
+[2024.03.26-19.16.42:863][  0]LogStaticMesh: Built static mesh [0.03s] /Game/Props/a2da79bf30c64b0799b228c7e494fb0c_Tree_016.a2da79bf30c64b0799b228c7e494fb0c_Tree_016
+[2024.03.26-19.16.42:876][  0]LogStaticMesh: Building static mesh a2da79bf30c64b0799b228c7e494fb0c_Tree_017...
+[2024.03.26-19.16.42:901][  0]LogStaticMesh: Built static mesh [0.02s] /Game/Props/a2da79bf30c64b0799b228c7e494fb0c_Tree_017.a2da79bf30c64b0799b228c7e494fb0c_Tree_017
+[2024.03.26-19.16.42:909][  0]LogStaticMesh: Building static mesh a2da79bf30c64b0799b228c7e494fb0c_Tree_018...
+[2024.03.26-19.16.42:930][  0]LogStaticMesh: Built static mesh [0.02s] /Game/Props/a2da79bf30c64b0799b228c7e494fb0c_Tree_018.a2da79bf30c64b0799b228c7e494fb0c_Tree_018
+[2024.03.26-19.16.42:968][  0]LogStaticMesh: Building static mesh a2da79bf30c64b0799b228c7e494fb0c_Tree_019...
+[2024.03.26-19.16.42:989][  0]LogStaticMesh: Built static mesh [0.02s] /Game/Props/a2da79bf30c64b0799b228c7e494fb0c_Tree_019.a2da79bf30c64b0799b228c7e494fb0c_Tree_019
+[2024.03.26-19.16.43:001][  0]LogStaticMesh: Building static mesh a2da79bf30c64b0799b228c7e494fb0c_Tree_020...
+[2024.03.26-19.16.43:022][  0]LogStaticMesh: Built static mesh [0.02s] /Game/Props/a2da79bf30c64b0799b228c7e494fb0c_Tree_020.a2da79bf30c64b0799b228c7e494fb0c_Tree_020
+[2024.03.26-19.16.43:031][  0]LogStaticMesh: Building static mesh a2da79bf30c64b0799b228c7e494fb0c_Tree_021...
+[2024.03.26-19.16.43:054][  0]LogStaticMesh: Built static mesh [0.02s] /Game/Props/a2da79bf30c64b0799b228c7e494fb0c_Tree_021.a2da79bf30c64b0799b228c7e494fb0c_Tree_021
+[2024.03.26-19.16.43:061][  0]LogStaticMesh: Building static mesh a2da79bf30c64b0799b228c7e494fb0c_Tree_022...
+[2024.03.26-19.16.43:086][  0]LogStaticMesh: Built static mesh [0.02s] /Game/Props/a2da79bf30c64b0799b228c7e494fb0c_Tree_022.a2da79bf30c64b0799b228c7e494fb0c_Tree_022
+[2024.03.26-19.16.43:094][  0]LogStaticMesh: Building static mesh a2da79bf30c64b0799b228c7e494fb0c_Tree_023...
+[2024.03.26-19.16.43:116][  0]LogStaticMesh: Built static mesh [0.02s] /Game/Props/a2da79bf30c64b0799b228c7e494fb0c_Tree_023.a2da79bf30c64b0799b228c7e494fb0c_Tree_023
+[2024.03.26-19.16.43:139][  0]LogStaticMesh: Building static mesh a2da79bf30c64b0799b228c7e494fb0c_Tree_024...
+[2024.03.26-19.16.43:164][  0]LogStaticMesh: Built static mesh [0.03s] /Game/Props/a2da79bf30c64b0799b228c7e494fb0c_Tree_024.a2da79bf30c64b0799b228c7e494fb0c_Tree_024
+[2024.03.26-19.16.43:172][  0]LogStaticMesh: Building static mesh a2da79bf30c64b0799b228c7e494fb0c_Tree_025...
+[2024.03.26-19.16.43:194][  0]LogStaticMesh: Built static mesh [0.02s] /Game/Props/a2da79bf30c64b0799b228c7e494fb0c_Tree_025.a2da79bf30c64b0799b228c7e494fb0c_Tree_025
+[2024.03.26-19.16.43:202][  0]LogStaticMesh: Building static mesh a2da79bf30c64b0799b228c7e494fb0c_Tree...
+[2024.03.26-19.16.43:230][  0]LogStaticMesh: Built static mesh [0.03s] /Game/Props/a2da79bf30c64b0799b228c7e494fb0c_Tree.a2da79bf30c64b0799b228c7e494fb0c_Tree
+[2024.03.26-19.16.43:249][  0]LogStaticMesh: Building static mesh a2da79bf30c64b0799b228c7e494fb0c_Windows_001...
+[2024.03.26-19.16.43:299][  0]LogStaticMesh: Built static mesh [0.05s] /Game/Props/a2da79bf30c64b0799b228c7e494fb0c_Windows_001.a2da79bf30c64b0799b228c7e494fb0c_Windows_001
+[2024.03.26-19.16.43:305][  0]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/ThirdPersonBP/Sonic/idle_aiming.idle_aiming
+[2024.03.26-19.16.43:306][  0]LogAnimationCompression: Recompressing (AnimSequence /Game/ThirdPersonBP/Sonic/idle_aiming.idle_aiming) using current/default (AnimCompress_BitwiseCompressOnly_0) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2024.03.26-19.16.43:307][  0]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/ThirdPersonBP/Sonic/Sprint_Forward_Right.Sprint_Forward_Right
+[2024.03.26-19.16.43:308][  0]LogAnimationCompression: Recompressing (AnimSequence /Game/ThirdPersonBP/Sonic/Sprint_Forward_Right.Sprint_Forward_Right) using current/default (AnimCompress_BitwiseCompressOnly_0) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2024.03.26-19.16.43:311][  0]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/ThirdPersonBP/Sonic/Sprint_Forward_Left.Sprint_Forward_Left
+[2024.03.26-19.16.43:311][  0]LogAnimationCompression: Recompressing (AnimSequence /Game/ThirdPersonBP/Sonic/Sprint_Forward_Left.Sprint_Forward_Left) using current/default (AnimCompress_BitwiseCompressOnly_0) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2024.03.26-19.16.43:312][  0]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/ThirdPersonBP/Sonic/Sprint_Forward.Sprint_Forward
+[2024.03.26-19.16.43:312][  0]LogAnimationCompression: Recompressing (AnimSequence /Game/ThirdPersonBP/Sonic/Sprint_Forward.Sprint_Forward) using current/default (AnimCompress_BitwiseCompressOnly_0) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2024.03.26-19.16.43:333][  0]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/ThirdPersonBP/Sonic/Sprint_Backward.Sprint_Backward
+[2024.03.26-19.16.43:334][  0]LogAnimationCompression: Recompressing (AnimSequence /Game/ThirdPersonBP/Sonic/Sprint_Backward.Sprint_Backward) using current/default (AnimCompress_BitwiseCompressOnly_0) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2024.03.26-19.16.43:346][  0]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/ThirdPersonBP/Sonic/jump_loop.jump_loop
+[2024.03.26-19.16.43:346][  0]LogAnimationCompression: Recompressing (AnimSequence /Game/ThirdPersonBP/Sonic/jump_loop.jump_loop) using current/default (AnimCompress_BitwiseCompressOnly_0) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2024.03.26-19.16.43:347][  0]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/ThirdPersonBP/Sonic/Reloading.Reloading
+[2024.03.26-19.16.43:347][  0]LogAnimationCompression: Recompressing (AnimSequence /Game/ThirdPersonBP/Sonic/Reloading.Reloading) using current/default (AnimCompress_BitwiseCompressOnly_0) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2024.03.26-19.16.43:374][  0]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/ThirdPersonBP/Sonic/Run_Forward_Left.Run_Forward_Left
+[2024.03.26-19.16.43:375][  0]LogAnimationCompression: Recompressing (AnimSequence /Game/ThirdPersonBP/Sonic/Run_Forward_Left.Run_Forward_Left) using current/default (AnimCompress_BitwiseCompressOnly_0) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2024.03.26-19.16.43:376][  0]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/ThirdPersonBP/Sonic/Run_Forward.Run_Forward
+[2024.03.26-19.16.43:376][  0]LogAnimationCompression: Recompressing (AnimSequence /Game/ThirdPersonBP/Sonic/Run_Forward.Run_Forward) using current/default (AnimCompress_BitwiseCompressOnly_0) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2024.03.26-19.16.43:379][  0]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/ThirdPersonBP/Sonic/Run_Backwards.Run_Backwards
+[2024.03.26-19.16.43:380][  0]LogAnimationCompression: Recompressing (AnimSequence /Game/ThirdPersonBP/Sonic/Run_Backwards.Run_Backwards) using current/default (AnimCompress_BitwiseCompressOnly_0) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2024.03.26-19.16.43:388][  0]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/ThirdPersonBP/Sonic/Walk_Forward_Right.Walk_Forward_Right
+[2024.03.26-19.16.43:388][  0]LogAnimationCompression: Recompressing (AnimSequence /Game/ThirdPersonBP/Sonic/Walk_Forward_Right.Walk_Forward_Right) using current/default (AnimCompress_BitwiseCompressOnly_0) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2024.03.26-19.16.43:389][  0]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/ThirdPersonBP/Sonic/Walk_Forward_Left.Walk_Forward_Left
+[2024.03.26-19.16.43:389][  0]LogAnimationCompression: Recompressing (AnimSequence /Game/ThirdPersonBP/Sonic/Walk_Forward_Left.Walk_Forward_Left) using current/default (AnimCompress_BitwiseCompressOnly_0) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2024.03.26-19.16.43:390][  0]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/ThirdPersonBP/Sonic/Walk_Forward.Walk_Forward
+[2024.03.26-19.16.43:390][  0]LogAnimationCompression: Recompressing (AnimSequence /Game/ThirdPersonBP/Sonic/Walk_Forward.Walk_Forward) using current/default (AnimCompress_BitwiseCompressOnly_0) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2024.03.26-19.16.43:406][  0]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/ThirdPersonBP/Sonic/Walk_Backward.Walk_Backward
+[2024.03.26-19.16.43:406][  0]LogAnimationCompression: Recompressing (AnimSequence /Game/ThirdPersonBP/Sonic/Walk_Backward.Walk_Backward) using current/default (AnimCompress_BitwiseCompressOnly_0) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2024.03.26-19.16.43:407][  0]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/ThirdPersonBP/Sonic/Run_Forward_Right.Run_Forward_Right
+[2024.03.26-19.16.43:407][  0]LogAnimationCompression: Recompressing (AnimSequence /Game/ThirdPersonBP/Sonic/Run_Forward_Right.Run_Forward_Right) using current/default (AnimCompress_BitwiseCompressOnly_0) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2024.03.26-19.16.43:418][  0]LogMaterial: Display: Missing cached shader map for material chr_evil_shoes01_dif_Mat, compiling. 
+[2024.03.26-19.16.43:465][  0]LogShaderCompilers: Display: Shaders left to compile 60
+[2024.03.26-19.16.43:465][  0]LogShaderCompilers: Display: Shaders left to compile 50
+[2024.03.26-19.16.43:465][  0]LogShaderCompilers: Display: Shaders left to compile 40
+[2024.03.26-19.16.43:465][  0]LogShaderCompilers: Display: Shaders left to compile 30
+[2024.03.26-19.16.43:465][  0]LogShaderCompilers: Display: Shaders left to compile 20
+[2024.03.26-19.16.43:465][  0]LogShaderCompilers: Display: Shaders left to compile 10
+[2024.03.26-19.16.43:465][  0]LogMaterial: Display: Missing cached shader map for material chr_evil_fur01_dif_Mat, compiling. 
+[2024.03.26-19.16.43:510][  0]LogMaterial: Display: Missing cached shader map for material chr_evil_eye_dif_Mat, compiling. 
+[2024.03.26-19.16.43:555][  0]LogShaderCompilers: Display: Shaders left to compile 60
+[2024.03.26-19.16.43:555][  0]LogShaderCompilers: Display: Shaders left to compile 50
+[2024.03.26-19.16.43:555][  0]LogShaderCompilers: Display: Shaders left to compile 40
+[2024.03.26-19.16.43:555][  0]LogMaterial: Display: Missing cached shader map for material chr_evil_body01_fal_Mat, compiling. 
+[2024.03.26-19.16.43:561][  0]LogMaterial: Warning: C:\Users\zambi\Documents\Games\SonicKillsAnime\Content\ThirdPersonBP\Blueprints\Enemy\Zombie\Textures\chr_evil_body01_fal_Mat.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2024.03.26-19.16.43:561][  0]LogMaterial: 	(Node TextureSample) Texture Sample> Missing input texture
+[2024.03.26-19.16.43:563][  0]LogMaterial: Display: Missing cached shader map for material chr_evil_body01_dif_Mat, compiling. 
+[2024.03.26-19.16.43:614][  0]LogSkeletalMesh: Building Skeletal Mesh weresonic...
+[2024.03.26-19.16.43:661][  0]LogSkeletalMesh: Built Skeletal Mesh [0.05s] /Game/ThirdPersonBP/Blueprints/Enemy/Zombie/weresonic.weresonic
+[2024.03.26-19.16.43:793][  0]LogStaticMesh: Building static mesh booletbox...
+[2024.03.26-19.16.46:080][  0]LogShaderCompilers: Display: Shaders left to compile 150
+[2024.03.26-19.16.46:081][  0]LogShaderCompilers: Display: Shaders left to compile 140
+[2024.03.26-19.16.46:081][  0]LogShaderCompilers: Display: Shaders left to compile 130
+[2024.03.26-19.16.46:081][  0]LogStaticMesh: Built static mesh [2.29s] /Game/ThirdPersonBP/Blueprints/Weapons/booletbox.booletbox
+[2024.03.26-19.16.46:120][  0]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/ThirdPersonBP/Blueprints/Enemy/Zombie/Animations/Zombie_Attack.Zombie_Attack
+[2024.03.26-19.16.46:120][  0]LogAnimationCompression: Recompressing (AnimSequence /Game/ThirdPersonBP/Blueprints/Enemy/Zombie/Animations/Zombie_Attack.Zombie_Attack) using current/default (AnimCompress_BitwiseCompressOnly_0) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2024.03.26-19.16.46:192][  0]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/ThirdPersonBP/Blueprints/Enemy/Zombie/Animations/Zombie_Walk.Zombie_Walk
+[2024.03.26-19.16.46:192][  0]LogAnimationCompression: Recompressing (AnimSequence /Game/ThirdPersonBP/Blueprints/Enemy/Zombie/Animations/Zombie_Walk.Zombie_Walk) using current/default (AnimCompress_BitwiseCompressOnly_0) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2024.03.26-19.16.46:196][  0]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/ThirdPersonBP/Blueprints/Enemy/Zombie/Animations/Zombie_Running.Zombie_Running
+[2024.03.26-19.16.46:196][  0]LogAnimationCompression: Recompressing (AnimSequence /Game/ThirdPersonBP/Blueprints/Enemy/Zombie/Animations/Zombie_Running.Zombie_Running) using current/default (AnimCompress_BitwiseCompressOnly_0) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2024.03.26-19.16.46:198][  0]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/ThirdPersonBP/Blueprints/Enemy/Zombie/Animations/Zombie_Idle.Zombie_Idle
+[2024.03.26-19.16.46:198][  0]LogAnimationCompression: Recompressing (AnimSequence /Game/ThirdPersonBP/Blueprints/Enemy/Zombie/Animations/Zombie_Idle.Zombie_Idle) using current/default (AnimCompress_BitwiseCompressOnly_0) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2024.03.26-19.16.46:254][  0]LogMaterial: Display: Missing cached shader map for material rocket_metal_Mat, compiling. 
+[2024.03.26-19.16.46:309][  0]LogSkeletalMesh: Building Skeletal Mesh MetalSonic...
+[2024.03.26-19.16.46:312][  0]LogSkeletalMesh: Built Skeletal Mesh [0.00s] /Game/ThirdPersonBP/Blueprints/Enemy/Soldier/MetalSonic.MetalSonic
+[2024.03.26-19.16.46:315][  0]LogMaterial: Display: Missing cached shader map for material phong1, compiling. 
+[2024.03.26-19.16.46:339][  0]LogStaticMesh: Building static mesh bullet...
+[2024.03.26-19.16.46:344][  0]LogStaticMesh: Built static mesh [0.01s] /Game/ThirdPersonBP/Blueprints/Weapons/bullet.bullet
+[2024.03.26-19.16.46:354][  0]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/ThirdPersonBP/Blueprints/Enemy/Soldier/Animations/idle.idle
+[2024.03.26-19.16.46:354][  0]LogAnimationCompression: Recompressing (AnimSequence /Game/ThirdPersonBP/Blueprints/Enemy/Soldier/Animations/idle.idle) using current/default (AnimCompress_BitwiseCompressOnly_0) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2024.03.26-19.16.46:356][  0]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/ThirdPersonBP/Blueprints/Enemy/Soldier/Animations/Walking_Backwards.Walking_Backwards
+[2024.03.26-19.16.46:357][  0]LogAnimationCompression: Recompressing (AnimSequence /Game/ThirdPersonBP/Blueprints/Enemy/Soldier/Animations/Walking_Backwards.Walking_Backwards) using current/default (AnimCompress_BitwiseCompressOnly_0) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2024.03.26-19.16.46:359][  0]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/ThirdPersonBP/Blueprints/Enemy/Soldier/Animations/Walk_Forward_Right__1_.Walk_Forward_Right__1_
+[2024.03.26-19.16.46:359][  0]LogAnimationCompression: Recompressing (AnimSequence /Game/ThirdPersonBP/Blueprints/Enemy/Soldier/Animations/Walk_Forward_Right__1_.Walk_Forward_Right__1_) using current/default (AnimCompress_BitwiseCompressOnly_0) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2024.03.26-19.16.46:360][  0]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/ThirdPersonBP/Blueprints/Enemy/Soldier/Animations/Walk_Forward_Left__1_.Walk_Forward_Left__1_
+[2024.03.26-19.16.46:361][  0]LogAnimationCompression: Recompressing (AnimSequence /Game/ThirdPersonBP/Blueprints/Enemy/Soldier/Animations/Walk_Forward_Left__1_.Walk_Forward_Left__1_) using current/default (AnimCompress_BitwiseCompressOnly_0) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2024.03.26-19.16.46:362][  0]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/ThirdPersonBP/Blueprints/Enemy/Soldier/Animations/Walk_Forward__1_.Walk_Forward__1_
+[2024.03.26-19.16.46:362][  0]LogAnimationCompression: Recompressing (AnimSequence /Game/ThirdPersonBP/Blueprints/Enemy/Soldier/Animations/Walk_Forward__1_.Walk_Forward__1_) using current/default (AnimCompress_BitwiseCompressOnly_0) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2024.03.26-19.16.46:377][  0]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/ThirdPersonBP/Blueprints/Enemy/Soldier/Animations/Run_Forward_Right__1_.Run_Forward_Right__1_
+[2024.03.26-19.16.46:377][  0]LogAnimationCompression: Recompressing (AnimSequence /Game/ThirdPersonBP/Blueprints/Enemy/Soldier/Animations/Run_Forward_Right__1_.Run_Forward_Right__1_) using current/default (AnimCompress_BitwiseCompressOnly_0) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2024.03.26-19.16.46:385][  0]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/ThirdPersonBP/Blueprints/Enemy/Soldier/Animations/Run_Forward_Left__1_.Run_Forward_Left__1_
+[2024.03.26-19.16.46:385][  0]LogAnimationCompression: Recompressing (AnimSequence /Game/ThirdPersonBP/Blueprints/Enemy/Soldier/Animations/Run_Forward_Left__1_.Run_Forward_Left__1_) using current/default (AnimCompress_BitwiseCompressOnly_0) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2024.03.26-19.16.46:386][  0]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/ThirdPersonBP/Blueprints/Enemy/Soldier/Animations/Run_Forward__1_.Run_Forward__1_
+[2024.03.26-19.16.46:387][  0]LogAnimationCompression: Recompressing (AnimSequence /Game/ThirdPersonBP/Blueprints/Enemy/Soldier/Animations/Run_Forward__1_.Run_Forward__1_) using current/default (AnimCompress_BitwiseCompressOnly_0) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2024.03.26-19.16.46:390][  0]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/ThirdPersonBP/Blueprints/Enemy/Soldier/Animations/Run_Backwards__1_.Run_Backwards__1_
+[2024.03.26-19.16.46:391][  0]LogAnimationCompression: Recompressing (AnimSequence /Game/ThirdPersonBP/Blueprints/Enemy/Soldier/Animations/Run_Backwards__1_.Run_Backwards__1_) using current/default (AnimCompress_BitwiseCompressOnly_0) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2024.03.26-19.16.46:392][  0]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/ThirdPersonBP/Blueprints/Enemy/Soldier/Animations/idle_aiming.idle_aiming
+[2024.03.26-19.16.46:392][  0]LogAnimationCompression: Recompressing (AnimSequence /Game/ThirdPersonBP/Blueprints/Enemy/Soldier/Animations/idle_aiming.idle_aiming) using current/default (AnimCompress_BitwiseCompressOnly_0) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2024.03.26-19.16.46:450][  0]LogMaterial: Display: Missing cached shader map for material Ak47_Mat, compiling. 
+[2024.03.26-19.16.46:508][  0]LogSkeletalMesh: Building Skeletal Mesh AK...
+[2024.03.26-19.16.46:545][  0]LogSkeletalMesh: Built Skeletal Mesh [0.04s] /Game/ThirdPersonBP/Blueprints/Weapons/AK47/AK.AK
+[2024.03.26-19.16.46:546][  0]LogSkeletalMesh: Building Skeletal Mesh sonicboi...
+[2024.03.26-19.16.46:606][  0]LogShaderCompilers: Display: Shaders left to compile 262
+[2024.03.26-19.16.46:606][  0]LogSkeletalMesh: Built Skeletal Mesh [0.06s] /Game/ThirdPersonBP/Sonic/sonicboi.sonicboi
+[2024.03.26-19.16.46:611][  0]LogAudioDerivedData: Display: Building compressed audio format OGG hash OGG wave reload...
+[2024.03.26-19.16.46:612][  0]LogTemp: Couldn't find amount to resample to.
+[2024.03.26-19.16.46:662][  0]LogMaterial: Display: Missing cached shader map for material pasted__phong1, compiling. 
+[2024.03.26-19.16.46:687][  0]LogMaterial: Display: Missing cached shader map for material pasted__pasted__phong1, compiling. 
+[2024.03.26-19.16.46:712][  0]LogMaterial: Display: Missing cached shader map for material lambert2, compiling. 
+[2024.03.26-19.16.46:829][  0]LogShaderCompilers: Display: Shaders left to compile 296
+[2024.03.26-19.16.46:829][  0]LogShaderCompilers: Display: Shaders left to compile 308
+[2024.03.26-19.16.46:829][  0]LogMaterial: Display: Missing cached shader map for material CastleAtlas_lit_Mat, compiling. 
+[2024.03.26-19.16.46:866][  0]LogShaderCompilers: Display: Shaders left to compile 298
+[2024.03.26-19.16.46:866][  0]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/ThirdPersonBP/Blueprints/Enemy/AllMight/Animations/Idle__2_.Idle__2_
+[2024.03.26-19.16.46:866][  0]LogAnimationCompression: Recompressing (AnimSequence /Game/ThirdPersonBP/Blueprints/Enemy/AllMight/Animations/Idle__2_.Idle__2_) using current/default (AnimCompress_BitwiseCompressOnly_0) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2024.03.26-19.16.46:870][  0]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/ThirdPersonBP/Blueprints/Enemy/AllMight/Animations/Running__1_.Running__1_
+[2024.03.26-19.16.46:870][  0]LogAnimationCompression: Recompressing (AnimSequence /Game/ThirdPersonBP/Blueprints/Enemy/AllMight/Animations/Running__1_.Running__1_) using current/default (AnimCompress_BitwiseCompressOnly_0) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2024.03.26-19.16.46:872][  0]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/ThirdPersonBP/Blueprints/Enemy/AllMight/Animations/Walking__1_.Walking__1_
+[2024.03.26-19.16.46:872][  0]LogAnimationCompression: Recompressing (AnimSequence /Game/ThirdPersonBP/Blueprints/Enemy/AllMight/Animations/Walking__1_.Walking__1_) using current/default (AnimCompress_BitwiseCompressOnly_0) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2024.03.26-19.16.46:874][  0]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/ThirdPersonBP/Blueprints/Enemy/AllMight/Animations/Cross_Punch.Cross_Punch
+[2024.03.26-19.16.46:874][  0]LogAnimationCompression: Recompressing (AnimSequence /Game/ThirdPersonBP/Blueprints/Enemy/AllMight/Animations/Cross_Punch.Cross_Punch) using current/default (AnimCompress_BitwiseCompressOnly_0) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2024.03.26-19.16.46:876][  0]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/ThirdPersonBP/Blueprints/Enemy/AllMight/AllMight_Anim.AllMight_Anim
+[2024.03.26-19.16.46:876][  0]LogAnimationCompression: Recompressing (AnimSequence /Game/ThirdPersonBP/Blueprints/Enemy/AllMight/AllMight_Anim.AllMight_Anim) using current/default (AnimCompress_BitwiseCompressOnly_0) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2024.03.26-19.16.46:897][  0]LogAudioDerivedData: Display: Building compressed audio format OGG hash OGG wave SonicDrownDie...
+[2024.03.26-19.16.46:899][  0]LogTemp: Couldn't find amount to resample to.
+[2024.03.26-19.16.46:954][  0]LogAudioDerivedData: Display: Building compressed audio format OGG hash OGG wave sonicdrown...
+[2024.03.26-19.16.46:969][  0]LogTemp: Couldn't find amount to resample to.
+[2024.03.26-19.16.47:298][  0]LogShaderCompilers: Display: Shaders left to compile 319
+[2024.03.26-19.16.47:448][  0]LogShaderCompilers: Display: Shaders left to compile 309
+[2024.03.26-19.16.47:448][  0]LogMaterial: Display: Missing cached shader map for material pla_sonic_eye_dif_Mat, compiling. 
+[2024.03.26-19.16.47:513][  0]LogMaterial: Display: Missing cached shader map for material pla_sonic_clothes_dif_Mat, compiling. 
+[2024.03.26-19.16.47:570][  0]LogMaterial: Display: Missing cached shader map for material pla_sonic_body_dif_Mat, compiling. 
+[2024.03.26-19.16.47:631][  0]LogMaterial: Display: Missing cached shader map for material TreeAtlas_Mat, compiling. 
+[2024.03.26-19.16.47:665][  0]LogMaterial: Display: Missing cached shader map for material SKYBOX_sphere_Mat, compiling. 
+[2024.03.26-19.16.47:698][  0]LogAudioDerivedData: Display: Building compressed audio format OGG hash OGG wave Peach...
+[2024.03.26-19.16.47:915][  0]LogTemp: Couldn't find amount to resample to.
+[2024.03.26-19.16.51:593][  0]LogShaderCompilers: Display: Shaders left to compile 541
+[2024.03.26-19.16.51:594][  0]LogShaderCompilers: Display: Shaders left to compile 531
+[2024.03.26-19.16.51:594][  0]LogShaderCompilers: Display: Shaders left to compile 521
+[2024.03.26-19.16.51:594][  0]LogShaderCompilers: Display: Shaders left to compile 511
+[2024.03.26-19.16.51:594][  0]LogShaderCompilers: Display: Shaders left to compile 501
+[2024.03.26-19.16.51:594][  0]LogShaderCompilers: Display: Shaders left to compile 491
+[2024.03.26-19.16.51:594][  0]LogShaderCompilers: Display: Shaders left to compile 481
+[2024.03.26-19.16.51:594][  0]LogShaderCompilers: Display: Shaders left to compile 471
+[2024.03.26-19.16.51:594][  0]LogShaderCompilers: Display: Shaders left to compile 461
+[2024.03.26-19.16.51:594][  0]LogShaderCompilers: Display: Shaders left to compile 451
+[2024.03.26-19.16.51:594][  0]LogShaderCompilers: Display: Shaders left to compile 441
+[2024.03.26-19.16.51:594][  0]LogShaderCompilers: Display: Shaders left to compile 431
+[2024.03.26-19.16.51:599][  0]LogMaterial: Display: Missing cached shader map for material Windows_Mat, compiling. 
+[2024.03.26-19.16.52:156][  0]LogShaderCompilers: Display: Shaders left to compile 452
+[2024.03.26-19.16.52:156][  0]LogAIModule: Creating AISystem for world Peachs_Castle
+[2024.03.26-19.16.52:456][  0]LogEditorServer: Finished looking for orphan Actors (0.001 secs)
+[2024.03.26-19.16.52:585][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2024.03.26-19.16.58:272][  0]LogShaderCompilers: Display: Shaders left to compile 442
+[2024.03.26-19.16.58:272][  0]LogShaderCompilers: Display: Shaders left to compile 432
+[2024.03.26-19.16.58:272][  0]LogShaderCompilers: Display: Shaders left to compile 422
+[2024.03.26-19.16.58:272][  0]LogShaderCompilers: Display: Shaders left to compile 412
+[2024.03.26-19.16.58:272][  0]LogShaderCompilers: Display: Shaders left to compile 402
+[2024.03.26-19.16.58:272][  0]LogShaderCompilers: Display: Shaders left to compile 392
+[2024.03.26-19.16.58:272][  0]LogShaderCompilers: Display: Shaders left to compile 382
+[2024.03.26-19.16.58:272][  0]LogShaderCompilers: Display: Shaders left to compile 372
+[2024.03.26-19.16.58:272][  0]LogShaderCompilers: Display: Shaders left to compile 362
+[2024.03.26-19.16.58:272][  0]LogShaderCompilers: Display: Shaders left to compile 352
+[2024.03.26-19.16.58:272][  0]LogShaderCompilers: Display: Shaders left to compile 342
+[2024.03.26-19.16.58:272][  0]LogShaderCompilers: Display: Shaders left to compile 332
+[2024.03.26-19.16.58:272][  0]LogShaderCompilers: Display: Shaders left to compile 322
+[2024.03.26-19.16.58:272][  0]LogShaderCompilers: Display: Shaders left to compile 312
+[2024.03.26-19.16.58:272][  0]LogShaderCompilers: Display: Shaders left to compile 302
+[2024.03.26-19.16.58:272][  0]LogShaderCompilers: Display: Shaders left to compile 292
+[2024.03.26-19.16.58:272][  0]LogShaderCompilers: Display: Shaders left to compile 282
+[2024.03.26-19.16.58:272][  0]LogShaderCompilers: Display: Shaders left to compile 272
+[2024.03.26-19.16.58:273][  0]LogShaderCompilers: Display: Shaders left to compile 262
+[2024.03.26-19.16.58:273][  0]LogShaderCompilers: Display: Shaders left to compile 252
+[2024.03.26-19.16.58:273][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 5,684.189ms to complete.
+[2024.03.26-19.16.58:274][  0]LogFileHelpers: Loading map 'Peachs_Castle' took 38.788
+[2024.03.26-19.16.58:783][  0]LogShaderCompilers: Display: Shaders left to compile 242
+[2024.03.26-19.16.58:783][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.03.26-19.16.58:801][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.03.26-19.16.58:818][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.03.26-19.16.58:832][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.03.26-19.16.58:875][  0]LogCollectionManager: Loaded 0 collections in 0.003786 seconds
+[2024.03.26-19.16.58:957][  0]LogFileCache: Scanning file cache for directory 'C:/Users/zambi/Documents/Games/SonicKillsAnime/Saved/Collections/' took 0.01s
+[2024.03.26-19.16.58:957][  0]LogShaderCompilers: Display: Shaders left to compile 232
+[2024.03.26-19.16.58:957][  0]LogFileCache: Scanning file cache for directory 'C:/Users/zambi/Documents/Games/SonicKillsAnime/Content/Developers/zambi/Collections/' took 0.01s
+[2024.03.26-19.16.58:957][  0]LogFileCache: Scanning file cache for directory 'C:/Users/zambi/Documents/Games/SonicKillsAnime/Content/Collections/' took 0.01s
+[2024.03.26-19.16.58:957][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000001 seconds
+[2024.03.26-19.16.58:979][  0]LogContentBrowser: Native class hierarchy populated in 0.0190 seconds. Added 2572 classes and 603 folders.
+[2024.03.26-19.16.59:006][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0006 seconds. Added 0 classes and 0 folders.
+[2024.03.26-19.16.59:904][  0]LogShaderCompilers: Display: Shaders left to compile 222
+[2024.03.26-19.16.59:904][  0]LogShaderCompilers: Display: Shaders left to compile 212
+[2024.03.26-19.16.59:904][  0]LogShaderCompilers: Display: Shaders left to compile 202
+[2024.03.26-19.16.59:904][  0]LogShaderCompilers: Display: Shaders left to compile 192
+[2024.03.26-19.16.59:904][  0]LogShaderCompilers: Display: Shaders left to compile 182
+[2024.03.26-19.16.59:904][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0006 seconds. Added 0 classes and 0 folders.
+[2024.03.26-19.16.59:948][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0006 seconds. Added 1 classes and 2 folders.
+[2024.03.26-19.17.00:075][  0]LogSlate: Took 0.013867 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2024.03.26-19.17.00:091][  0]LogSlate: Took 0.013538 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2024.03.26-19.17.00:117][  0]LogSlate: Took 0.013448 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2024.03.26-19.17.00:464][  0]LogShaderCompilers: Display: Shaders left to compile 172
+[2024.03.26-19.17.00:464][  0]LogRenderer: Reallocating scene render targets to support 964x436 Format 10 NumSamples 1 (Frame:1).
+[2024.03.26-19.17.01:524][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0006 seconds. Added 0 classes and 0 folders.
+[2024.03.26-19.17.01:525][  0]LogLoad: (Engine Initialization) Total time: 67.89 seconds
+[2024.03.26-19.17.01:525][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2024.03.26-19.17.01:547][  0]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'DefaultSceneRoot': JotaroSpawnpoint_C /Game/ThirdPersonBP/Maps/Peachs_Castle.Peachs_Castle:PersistentLevel.JotaroSpawnpoint_2
+[2024.03.26-19.17.01:585][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2024.03.26-19.17.01:600][  0]LogShaderCompilers: Display: Shaders left to compile 162
+[2024.03.26-19.17.01:600][  0]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2024.03.26-19.17.01:768][  0]LogShaderCompilers: Display: Shaders left to compile 152
+[2024.03.26-19.17.01:768][  0]LogShaderCompilers: Display: Shaders left to compile 142
+[2024.03.26-19.17.01:768][  0]LogSlate: Took 0.012673 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2024.03.26-19.17.02:590][  5]LogAssetRegistry: Asset discovery search completed in 50.1765 seconds
+[2024.03.26-19.17.02:605][  5]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000001 seconds (found 0 objects)
+[2024.03.26-19.17.02:605][  5]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000190 seconds (updated 0 objects)
+[2024.03.26-19.17.02:795][ 10]LogShaderCompilers: Display: Shaders left to compile 132
+[2024.03.26-19.17.02:795][ 10]LogShaderCompilers: Display: Shaders left to compile 122
+[2024.03.26-19.17.02:795][ 10]LogShaderCompilers: Display: Shaders left to compile 112
+[2024.03.26-19.17.02:795][ 10]LogShaderCompilers: Display: Shaders left to compile 102
+[2024.03.26-19.17.04:754][113]LogShaderCompilers: Display: Shaders left to compile 92
+[2024.03.26-19.17.04:754][113]LogShaderCompilers: Display: Shaders left to compile 82
+[2024.03.26-19.17.04:754][113]LogShaderCompilers: Display: Shaders left to compile 72
+[2024.03.26-19.17.05:080][131]LogSlate: Window 'Message Log' being destroyed
+[2024.03.26-19.17.05:107][131]LogSlate: Window 'Message Log' being destroyed
+[2024.03.26-19.17.05:502][158]LogShaderCompilers: Display: Shaders left to compile 62
+[2024.03.26-19.17.05:719][167]LogShaderCompilers: Display: Shaders left to compile 52
+[2024.03.26-19.17.06:006][181]LogShaderCompilers: Display: Shaders left to compile 42
+[2024.03.26-19.17.06:006][181]LogShaderCompilers: Display: Shaders left to compile 32
+[2024.03.26-19.17.06:541][201]LogShaderCompilers: Display: Shaders left to compile 22
+[2024.03.26-19.17.06:897][216]LogShaderCompilers: Display: Shaders left to compile 12
+[2024.03.26-19.17.07:439][251]LogShaderCompilers: Display: Shaders left to compile 2
+[2024.03.26-19.17.08:141][294]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2024.03.26-19.17.33:072][795]LogSlate: Took 0.004837 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2024.03.26-19.17.33:090][795]LogAssetEditorManager: Opening Asset editor for AnimBlueprint /Game/ThirdPersonBP/Sonic/SonicAnimBPFInal.SonicAnimBPFInal
+[2024.03.26-19.17.33:129][795]LogContentBrowser: Native class hierarchy updated for 'SkeletonEditor' in 0.0004 seconds. Added 1 classes and 2 folders.
+[2024.03.26-19.17.33:392][795]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_8:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2024.03.26-19.17.33:399][795]LogContentBrowser: Native class hierarchy updated for 'PinnedCommandList' in 0.0003 seconds. Added 1 classes and 0 folders.
+[2024.03.26-19.17.34:083][795]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0006 seconds. Added 116 classes and 0 folders.
+[2024.03.26-19.17.34:893][795]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_8:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) - call TermArticulated first.
+[2024.03.26-19.17.35:303][795]LogSlate: Took 0.004796 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2024.03.26-19.17.35:372][795]LogContentBrowser: Native class hierarchy updated for 'ClothingSystemEditorInterface' in 0.0004 seconds. Added 1 classes and 0 folders.
+[2024.03.26-19.17.37:546][907]LogSlate: Took 0.006158 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2024.03.26-19.18.00:068][229]LogAssetEditorManager: Opening Asset editor for BlendSpace /Game/ThirdPersonBP/Sonic/SonicBSFinal.SonicBSFinal
+[2024.03.26-19.18.00:086][229]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_10:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2024.03.26-19.18.00:169][229]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_10:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) - call TermArticulated first.
+[2024.03.26-19.18.00:520][229]LogContentBrowser: Verbose: The majority of assets in the view are of type: AnimSequence
+[2024.03.26-19.20.07:816][368]LogSlate: Window 'SonicBSFinal' being destroyed
+[2024.03.26-19.20.07:829][368]LogSlate: Window 'SonicBSFinal' being destroyed
+[2024.03.26-19.20.09:280][430]LogSlate: Window 'SonicKillsAnime - Unreal Editor' being destroyed
+[2024.03.26-19.20.09:488][431]Cmd: QUIT_EDITOR
+[2024.03.26-19.20.09:558][431]LogExit: Preparing to exit.
+[2024.03.26-19.20.10:195][431]LogExit: Editor shut down
+[2024.03.26-19.20.10:196][431]LogExit: Transaction tracking system shut down
+[2024.03.26-19.20.10:928][431]LogExit: Object subsystem successfully closed.
+[2024.03.26-19.20.10:991][431]LogShaderCompilers: Display: Shaders left to compile 0
+[2024.03.26-19.20.10:996][431]LogD3D11RHI: Shutdown
+[2024.03.26-19.20.10:997][431]LogD3D11RHI: CleanupD3DDevice
+[2024.03.26-19.20.11:003][431]LogD3D11RHI: ~FD3D11DynamicRHI
+[2024.03.26-19.20.11:069][431]LogModuleManager: Shutting down and abandoning module AnimationEditor (624)
+[2024.03.26-19.20.11:069][431]LogModuleManager: Shutting down and abandoning module ClothingSystemEditorInterface (622)
+[2024.03.26-19.20.11:069][431]LogModuleManager: Shutting down and abandoning module BlueprintGraph (620)
+[2024.03.26-19.20.11:069][431]LogModuleManager: Shutting down and abandoning module PinnedCommandList (618)
+[2024.03.26-19.20.11:069][431]LogModuleManager: Shutting down and abandoning module SkeletonEditor (616)
+[2024.03.26-19.20.11:069][431]LogModuleManager: Shutting down and abandoning module AnimationBlueprintEditor (614)
+[2024.03.26-19.20.11:069][431]LogModuleManager: Shutting down and abandoning module HierarchicalLODOutliner (612)
+[2024.03.26-19.20.11:069][431]LogModuleManager: Shutting down and abandoning module SceneOutliner (610)
+[2024.03.26-19.20.11:070][431]LogModuleManager: Shutting down and abandoning module AddContentDialog (608)
+[2024.03.26-19.20.11:070][431]LogModuleManager: Shutting down and abandoning module WidgetCarousel (607)
+[2024.03.26-19.20.11:070][431]LogModuleManager: Shutting down and abandoning module EditorWidgets (604)
+[2024.03.26-19.20.11:070][431]LogModuleManager: Shutting down and abandoning module CollectionManager (602)
+[2024.03.26-19.20.11:071][431]LogModuleManager: Shutting down and abandoning module MeshBuilder (600)
+[2024.03.26-19.20.11:071][431]LogModuleManager: Shutting down and abandoning module StatsViewer (598)
+[2024.03.26-19.20.11:071][431]LogModuleManager: Shutting down and abandoning module FoliageEdit (596)
+[2024.03.26-19.20.11:071][431]LogModuleManager: Shutting down and abandoning module LandscapeEditor (594)
+[2024.03.26-19.20.11:073][431]LogModuleManager: Shutting down and abandoning module MeshPaintMode (592)
+[2024.03.26-19.20.11:073][431]LogModuleManager: Shutting down and abandoning module SceneDepthPickerMode (590)
+[2024.03.26-19.20.11:073][431]LogModuleManager: Shutting down and abandoning module ActorPickerMode (588)
+[2024.03.26-19.20.11:073][431]LogModuleManager: Shutting down and abandoning module GeometryMode (586)
+[2024.03.26-19.20.11:073][431]LogModuleManager: Shutting down and abandoning module TextureAlignMode (584)
+[2024.03.26-19.20.11:074][431]LogModuleManager: Shutting down and abandoning module BspMode (582)
+[2024.03.26-19.20.11:074][431]LogModuleManager: Shutting down and abandoning module PIEPreviewDeviceProfileSelector (580)
+[2024.03.26-19.20.11:074][431]LogModuleManager: Shutting down and abandoning module SequenceRecorderSections (578)
+[2024.03.26-19.20.11:074][431]LogModuleManager: Shutting down and abandoning module AutomationWorker (576)
+[2024.03.26-19.20.11:074][431]LogModuleManager: Shutting down and abandoning module AudioCaptureEditor (574)
+[2024.03.26-19.20.11:074][431]LogModuleManager: Shutting down and abandoning module SequenceRecorder (573)
+[2024.03.26-19.20.11:074][431]LogModuleManager: Shutting down and abandoning module MatineeToLevelSequence (570)
+[2024.03.26-19.20.11:074][431]LogModuleManager: Shutting down and abandoning module LevelSequenceEditor (568)
+[2024.03.26-19.20.11:076][431]LogModuleManager: Shutting down and abandoning module PlacementMode (567)
+[2024.03.26-19.20.11:076][431]LogModuleManager: Shutting down and abandoning module MaterialEditor (566)
+[2024.03.26-19.20.11:078][431]LogModuleManager: Shutting down and abandoning module WmfMediaFactory (562)
+[2024.03.26-19.20.11:078][431]LogModuleManager: Shutting down and abandoning module WmfMediaEditor (560)
+[2024.03.26-19.20.11:078][431]LogModuleManager: Shutting down and abandoning module MediaPlayerEditor (558)
+[2024.03.26-19.20.11:078][431]LogModuleManager: Shutting down and abandoning module OpenExrWrapper (556)
+[2024.03.26-19.20.11:078][431]LogModuleManager: Shutting down and abandoning module ImgMediaFactory (554)
+[2024.03.26-19.20.11:078][431]LogModuleManager: Shutting down and abandoning module ImgMediaEditor (552)
+[2024.03.26-19.20.11:078][431]LogModuleManager: Shutting down and abandoning module AvfMediaFactory (550)
+[2024.03.26-19.20.11:078][431]LogModuleManager: Shutting down and abandoning module AvfMediaEditor (548)
+[2024.03.26-19.20.11:078][431]LogModuleManager: Shutting down and abandoning module AndroidMediaFactory (546)
+[2024.03.26-19.20.11:078][431]LogModuleManager: Shutting down and abandoning module AndroidMediaEditor (544)
+[2024.03.26-19.20.11:079][431]LogModuleManager: Shutting down and abandoning module MagicLeapCameraPreviewFactory (542)
+[2024.03.26-19.20.11:079][431]LogModuleManager: Shutting down and abandoning module MagicLeapMediaFactory (540)
+[2024.03.26-19.20.11:079][431]LogModuleManager: Shutting down and abandoning module MagicLeapMediaEditor (538)
+[2024.03.26-19.20.11:079][431]LogModuleManager: Shutting down and abandoning module CharacterAI (536)
+[2024.03.26-19.20.11:079][431]LogModuleManager: Shutting down and abandoning module SmartSnapping (534)
+[2024.03.26-19.20.11:079][431]LogModuleManager: Shutting down and abandoning module SessionServices (532)
+[2024.03.26-19.20.11:079][431]LogModuleManager: Shutting down and abandoning module ViewportSnapping (530)
+[2024.03.26-19.20.11:079][431]LogModuleManager: Shutting down and abandoning module ViewportInteraction (528)
+[2024.03.26-19.20.11:079][431]LogModuleManager: Shutting down and abandoning module ClothPainter (526)
+[2024.03.26-19.20.11:080][431]LogModuleManager: Shutting down and abandoning module SkeletalMeshEditor (525)
+[2024.03.26-19.20.11:081][431]LogModuleManager: Shutting down and abandoning module LogVisualizer (522)
+[2024.03.26-19.20.11:083][431]LogModuleManager: Shutting down and abandoning module IntroTutorials (520)
+[2024.03.26-19.20.11:083][431]LogModuleManager: Shutting down and abandoning module GameProjectGeneration (519)
+[2024.03.26-19.20.11:084][431]LogModuleManager: Shutting down and abandoning module LuminPlatformEditor (516)
+[2024.03.26-19.20.11:084][431]LogModuleManager: Shutting down and abandoning module IOSPlatformEditor (514)
+[2024.03.26-19.20.11:084][431]LogModuleManager: Shutting down and abandoning module HTML5PlatformEditor (512)
+[2024.03.26-19.20.11:085][431]LogModuleManager: Shutting down and abandoning module AndroidPlatformEditor (510)
+[2024.03.26-19.20.11:085][431]LogModuleManager: Shutting down and abandoning module AndroidDeviceDetection (509)
+[2024.03.26-19.20.11:858][431]LogModuleManager: Shutting down and abandoning module WindowsPlatformEditor (506)
+[2024.03.26-19.20.11:858][431]LogModuleManager: Shutting down and abandoning module LuminRuntimeSettings (504)
+[2024.03.26-19.20.11:858][431]LogModuleManager: Shutting down and abandoning module IOSRuntimeSettings (502)
+[2024.03.26-19.20.11:858][431]LogModuleManager: Shutting down and abandoning module AndroidRuntimeSettings (500)
+[2024.03.26-19.20.11:858][431]LogModuleManager: Shutting down and abandoning module InputBindingEditor (498)
+[2024.03.26-19.20.11:858][431]LogModuleManager: Shutting down and abandoning module MergeActors (496)
+[2024.03.26-19.20.11:859][431]LogModuleManager: Shutting down and abandoning module LocalizationDashboard (494)
+[2024.03.26-19.20.11:860][431]LogModuleManager: Shutting down and abandoning module LocalizationService (493)
+[2024.03.26-19.20.11:860][431]LogModuleManager: Shutting down and abandoning module HardwareTargeting (490)
+[2024.03.26-19.20.11:860][431]LogModuleManager: Shutting down and abandoning module DeviceProfileEditor (488)
+[2024.03.26-19.20.11:861][431]LogModuleManager: Shutting down and abandoning module UndoHistory (486)
+[2024.03.26-19.20.11:861][431]LogModuleManager: Shutting down and abandoning module XmlParser (484)
+[2024.03.26-19.20.11:861][431]LogModuleManager: Shutting down and abandoning module Blutility (482)
+[2024.03.26-19.20.11:861][431]LogModuleManager: Shutting down and abandoning module ProjectSettingsViewer (480)
+[2024.03.26-19.20.11:861][431]LogModuleManager: Shutting down and abandoning module ProjectTargetPlatformEditor (479)
+[2024.03.26-19.20.11:862][431]LogModuleManager: Shutting down and abandoning module EditorSettingsViewer (476)
+[2024.03.26-19.20.11:862][431]LogModuleManager: Shutting down and abandoning module SettingsEditor (474)
+[2024.03.26-19.20.11:862][431]LogModuleManager: Shutting down and abandoning module ProjectLauncher (472)
+[2024.03.26-19.20.11:863][431]LogModuleManager: Shutting down and abandoning module SessionFrontend (470)
+[2024.03.26-19.20.11:863][431]LogModuleManager: Shutting down and abandoning module ProfilerClient (468)
+[2024.03.26-19.20.11:863][431]LogModuleManager: Shutting down and abandoning module DeviceManager (466)
+[2024.03.26-19.20.11:864][431]LogModuleManager: Shutting down and abandoning module TargetDeviceServices (465)
+[2024.03.26-19.20.11:908][431]LogModuleManager: Shutting down and abandoning module AutomationController (462)
+[2024.03.26-19.20.11:909][431]LogModuleManager: Shutting down and abandoning module AutomationWindow (460)
+[2024.03.26-19.20.11:909][431]LogModuleManager: Shutting down and abandoning module Layers (458)
+[2024.03.26-19.20.11:911][431]LogModuleManager: Shutting down and abandoning module ComponentVisualizers (456)
+[2024.03.26-19.20.11:911][431]LogModuleManager: Shutting down and abandoning module DetailCustomizations (454)
+[2024.03.26-19.20.11:911][431]LogModuleManager: Shutting down and abandoning module PackagesDialog (452)
+[2024.03.26-19.20.11:911][431]LogModuleManager: Shutting down and abandoning module Persona (450)
+[2024.03.26-19.20.11:911][431]LogModuleManager: Shutting down and abandoning module AdvancedPreviewScene (449)
+[2024.03.26-19.20.11:911][431]LogModuleManager: Shutting down and abandoning module AnimGraph (447)
+[2024.03.26-19.20.11:911][431]LogModuleManager: Shutting down and abandoning module Kismet (444)
+[2024.03.26-19.20.11:916][431]LogModuleManager: Shutting down and abandoning module GraphEditor (442)
+[2024.03.26-19.20.11:916][431]LogModuleManager: Shutting down and abandoning module ClassViewer (440)
+[2024.03.26-19.20.11:917][431]LogModuleManager: Shutting down and abandoning module Toolbox (438)
+[2024.03.26-19.20.11:917][431]LogModuleManager: Shutting down and abandoning module ModuleUI (436)
+[2024.03.26-19.20.11:917][431]LogModuleManager: Shutting down and abandoning module MovieSceneTools (434)
+[2024.03.26-19.20.11:918][431]LogModuleManager: Shutting down and abandoning module OutputLog (432)
+[2024.03.26-19.20.11:918][431]LogModuleManager: Shutting down and abandoning module GammaUI (430)
+[2024.03.26-19.20.11:919][431]LogModuleManager: Shutting down and abandoning module Documentation (428)
+[2024.03.26-19.20.11:919][431]LogModuleManager: Shutting down and abandoning module MovieSceneTracks (426)
+[2024.03.26-19.20.11:919][431]LogModuleManager: Shutting down and abandoning module MovieScene (424)
+[2024.03.26-19.20.11:919][431]LogModuleManager: Shutting down and abandoning module StreamingPauseRendering (422)
+[2024.03.26-19.20.11:919][431]LogModuleManager: Shutting down and abandoning module LauncherPlatform (420)
+[2024.03.26-19.20.11:919][431]LogModuleManager: Shutting down and abandoning module AnalyticsET (418)
+[2024.03.26-19.20.11:919][431]LogModuleManager: Shutting down and abandoning module PortalServices (416)
+[2024.03.26-19.20.11:919][431]LogModuleManager: Shutting down and abandoning module PortalRpc (414)
+[2024.03.26-19.20.11:919][431]LogModuleManager: Shutting down and abandoning module MessagingRpc (412)
+[2024.03.26-19.20.11:919][431]LogModuleManager: Shutting down and abandoning module AIModule (410)
+[2024.03.26-19.20.11:920][431]LogModuleManager: Shutting down and abandoning module GameplayDebugger (409)
+[2024.03.26-19.20.11:920][431]LogModuleManager: Shutting down and abandoning module AITestSuite (407)
+[2024.03.26-19.20.11:921][431]LogModuleManager: Shutting down and abandoning module NavigationSystem (405)
+[2024.03.26-19.20.11:921][431]LogModuleManager: Shutting down and abandoning module DesktopPlatform (402)
+[2024.03.26-19.20.11:921][431]LogModuleManager: Shutting down and abandoning module ProfilerService (400)
+[2024.03.26-19.20.12:042][431]LogModuleManager: Shutting down and abandoning module TaskGraph (398)
+[2024.03.26-19.20.12:042][431]LogModuleManager: Shutting down and abandoning module SteamVRController (396)
+[2024.03.26-19.20.12:042][431]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponentEditor (394)
+[2024.03.26-19.20.12:042][431]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponent (392)
+[2024.03.26-19.20.12:043][431]LogModuleManager: Shutting down and abandoning module OculusInput (390)
+[2024.03.26-19.20.12:043][431]LogModuleManager: Shutting down and abandoning module MobilePatchingUtils (388)
+[2024.03.26-19.20.12:043][431]LogModuleManager: Shutting down and abandoning module EditableMesh (386)
+[2024.03.26-19.20.12:043][431]LogModuleManager: Shutting down and abandoning module CustomMeshComponent (384)
+[2024.03.26-19.20.12:043][431]LogModuleManager: Shutting down and abandoning module CableComponent (382)
+[2024.03.26-19.20.12:043][431]LogModuleManager: Shutting down and abandoning module AudioCapture (380)
+[2024.03.26-19.20.12:043][431]LogModuleManager: Shutting down and abandoning module ArchVisCharacter (378)
+[2024.03.26-19.20.12:043][431]LogModuleManager: Shutting down and abandoning module AndroidPermission (376)
+[2024.03.26-19.20.12:043][431]LogModuleManager: Shutting down and abandoning module NUTUnrealEngine4 (374)
+[2024.03.26-19.20.12:043][431]LogModuleManager: Shutting down and abandoning module NetcodeUnitTest (372)
+[2024.03.26-19.20.12:045][431]LogModuleManager: Shutting down and abandoning module MediaCompositingEditor (370)
+[2024.03.26-19.20.12:045][431]LogModuleManager: Shutting down and abandoning module MediaCompositing (368)
+[2024.03.26-19.20.12:045][431]LogModuleManager: Shutting down and abandoning module LinearTimecode (366)
+[2024.03.26-19.20.12:045][431]LogModuleManager: Shutting down and abandoning module ImgMedia (364)
+[2024.03.26-19.20.12:050][431]LogModuleManager: Shutting down and abandoning module HTML5Networking (362)
+[2024.03.26-19.20.12:050][431]LogModuleManager: Shutting down and abandoning module GeometryCacheTracks (360)
+[2024.03.26-19.20.12:050][431]LogModuleManager: Shutting down and abandoning module GeometryCacheSequencer (358)
+[2024.03.26-19.20.12:050][431]LogModuleManager: Shutting down and abandoning module BackChannel (356)
+[2024.03.26-19.20.12:051][431]LogModuleManager: Shutting down and abandoning module AppleVision (354)
+[2024.03.26-19.20.12:051][431]LogModuleManager: Shutting down and abandoning module AppleImageUtils (352)
+[2024.03.26-19.20.12:051][431]LogModuleManager: Shutting down and abandoning module AlembicImporter (350)
+[2024.03.26-19.20.12:051][431]LogModuleManager: Shutting down and abandoning module AlembicLibrary (349)
+[2024.03.26-19.20.12:051][431]LogModuleManager: Shutting down and abandoning module GeometryCache (348)
+[2024.03.26-19.20.12:051][431]LogModuleManager: Shutting down and abandoning module GeometryCacheEd (347)
+[2024.03.26-19.20.12:051][431]LogModuleManager: Shutting down and abandoning module DatasmithContentEditor (342)
+[2024.03.26-19.20.12:051][431]LogModuleManager: Shutting down and abandoning module DatasmithContent (340)
+[2024.03.26-19.20.12:052][431]LogModuleManager: Shutting down and abandoning module SpeedTreeImporter (338)
+[2024.03.26-19.20.12:052][431]LogModuleManager: Shutting down and abandoning module PluginBrowser (336)
+[2024.03.26-19.20.12:053][431]LogModuleManager: Shutting down and abandoning module MobileLauncherProfileWizard (334)
+[2024.03.26-19.20.12:054][431]LogModuleManager: Shutting down and abandoning module PolygonModeling (332)
+[2024.03.26-19.20.12:054][431]LogModuleManager: Shutting down and abandoning module MeshEditor (330)
+[2024.03.26-19.20.12:054][431]LogModuleManager: Shutting down and abandoning module CryptoKeysOpenSSL (328)
+[2024.03.26-19.20.12:054][431]LogModuleManager: Shutting down and abandoning module CryptoKeys (326)
+[2024.03.26-19.20.12:054][431]LogModuleManager: Shutting down and abandoning module VisualStudioSourceCodeAccess (324)
+[2024.03.26-19.20.12:054][431]LogModuleManager: Shutting down and abandoning module VisualStudioCodeSourceCodeAccess (322)
+[2024.03.26-19.20.12:055][431]LogModuleManager: Shutting down and abandoning module UObjectPlugin (320)
+[2024.03.26-19.20.12:055][431]LogModuleManager: Shutting down and abandoning module SubversionSourceControl (318)
+[2024.03.26-19.20.12:056][431]LogModuleManager: Shutting down and abandoning module PerforceSourceControl (316)
+[2024.03.26-19.20.12:057][431]LogModuleManager: Shutting down and abandoning module GitSourceControl (314)
+[2024.03.26-19.20.12:058][431]LogModuleManager: Shutting down and abandoning module SourceControl (313)
+[2024.03.26-19.20.12:059][431]LogModuleManager: Shutting down and abandoning module CLionSourceCodeAccess (310)
+[2024.03.26-19.20.12:059][431]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeEditor (308)
+[2024.03.26-19.20.12:059][431]LogModuleManager: Shutting down and abandoning module PaperTiledImporter (306)
+[2024.03.26-19.20.12:059][431]LogModuleManager: Shutting down and abandoning module PaperSpriteSheetImporter (304)
+[2024.03.26-19.20.12:059][431]LogModuleManager: Shutting down and abandoning module Paper2DEditor (302)
+[2024.03.26-19.20.12:060][431]LogModuleManager: Shutting down and abandoning module MeshPaint (301)
+[2024.03.26-19.20.12:060][431]LogModuleManager: Shutting down and abandoning module RuntimePhysXCooking (298)
+[2024.03.26-19.20.12:060][431]LogModuleManager: Shutting down and abandoning module PhysXVehiclesEditor (296)
+[2024.03.26-19.20.12:060][431]LogModuleManager: Shutting down and abandoning module PhysXVehicles (294)
+[2024.03.26-19.20.12:060][431]LogModuleManager: Shutting down and abandoning module OculusEditor (292)
+[2024.03.26-19.20.12:061][431]LogModuleManager: Shutting down and abandoning module LocationServicesBPLibrary (290)
+[2024.03.26-19.20.12:061][431]LogModuleManager: Shutting down and abandoning module ImmediatePhysicsEditor (288)
+[2024.03.26-19.20.12:061][431]LogModuleManager: Shutting down and abandoning module ImmediatePhysics (286)
+[2024.03.26-19.20.12:061][431]LogModuleManager: Shutting down and abandoning module ActorSequence (284)
+[2024.03.26-19.20.12:061][431]LogModuleManager: Shutting down and abandoning module UdpMessaging (282)
+[2024.03.26-19.20.12:162][431]LogModuleManager: Shutting down and abandoning module TcpMessaging (280)
+[2024.03.26-19.20.12:263][431]LogModuleManager: Shutting down and abandoning module MagicLeapAudio (278)
+[2024.03.26-19.20.12:263][431]LogModuleManager: Shutting down and abandoning module GameplayTagsEditor (276)
+[2024.03.26-19.20.12:263][431]LogModuleManager: Shutting down and abandoning module FacialAnimationEditor (274)
+[2024.03.26-19.20.12:263][431]LogModuleManager: Shutting down and abandoning module FacialAnimation (272)
+[2024.03.26-19.20.12:263][431]LogModuleManager: Shutting down and abandoning module DataValidation (270)
+[2024.03.26-19.20.12:263][431]LogModuleManager: Shutting down and abandoning module AssetManagerEditor (268)
+[2024.03.26-19.20.12:264][431]LogModuleManager: Shutting down and abandoning module LevelEditor (267)
+[2024.03.26-19.20.12:266][431]LogModuleManager: Shutting down and abandoning module PixelInspectorModule (266)
+[2024.03.26-19.20.12:266][431]LogModuleManager: Shutting down and abandoning module CommonMenuExtensions (264)
+[2024.03.26-19.20.12:266][431]LogModuleManager: Shutting down and abandoning module MainFrame (262)
+[2024.03.26-19.20.12:267][431]LogModuleManager: Shutting down and abandoning module HotReload (261)
+[2024.03.26-19.20.12:267][431]LogModuleManager: Shutting down and abandoning module ContentBrowser (257)
+[2024.03.26-19.20.12:268][431]LogModuleManager: Shutting down and abandoning module TreeMap (255)
+[2024.03.26-19.20.12:269][431]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeRuntime (252)
+[2024.03.26-19.20.12:269][431]LogModuleManager: Shutting down and abandoning module AISupportModule (250)
+[2024.03.26-19.20.12:269][431]LogModuleManager: Shutting down and abandoning module Paper2D (248)
+[2024.03.26-19.20.12:269][431]LogModuleManager: Shutting down and abandoning module WindowsMoviePlayer (246)
+[2024.03.26-19.20.12:270][431]LogModuleManager: Shutting down and abandoning module WmfMedia (244)
+[2024.03.26-19.20.12:272][431]LogModuleManager: Shutting down and abandoning module Media (243)
+[2024.03.26-19.20.12:278][431]LogModuleManager: Shutting down and abandoning module PacketHandler (240)
+[2024.03.26-19.20.12:278][431]LogModuleManager: Shutting down and abandoning module ClothingSystemEditor (238)
+[2024.03.26-19.20.12:278][431]LogModuleManager: Shutting down and abandoning module ClothingSystemRuntime (236)
+[2024.03.26-19.20.12:279][431]LogModuleManager: Shutting down and abandoning module MediaAssets (234)
+[2024.03.26-19.20.12:280][431]LogModuleManager: Shutting down and abandoning module Overlay (232)
+[2024.03.26-19.20.12:280][431]LogModuleManager: Shutting down and abandoning module OverlayEditor (231)
+[2024.03.26-19.20.12:280][431]LogModuleManager: Shutting down and abandoning module VREditor (228)
+[2024.03.26-19.20.12:280][431]LogModuleManager: Shutting down and abandoning module StringTableEditor (226)
+[2024.03.26-19.20.12:280][431]LogModuleManager: Shutting down and abandoning module GameplayTasksEditor (224)
+[2024.03.26-19.20.12:280][431]LogModuleManager: Shutting down and abandoning module BehaviorTreeEditor (222)
+[2024.03.26-19.20.12:280][431]LogModuleManager: Shutting down and abandoning module FunctionalTesting (220)
+[2024.03.26-19.20.12:281][431]LogModuleManager: Shutting down and abandoning module CollisionAnalyzer (218)
+[2024.03.26-19.20.12:282][431]LogModuleManager: Shutting down and abandoning module WorkspaceMenuStructure (217)
+[2024.03.26-19.20.12:283][431]LogModuleManager: Shutting down and abandoning module UMG (214)
+[2024.03.26-19.20.12:283][431]LogModuleManager: Shutting down and abandoning module UMGEditor (213)
+[2024.03.26-19.20.12:284][431]LogModuleManager: Shutting down and abandoning module Sequencer (212)
+[2024.03.26-19.20.12:286][431]LogModuleManager: Shutting down and abandoning module MessageLog (209)
+[2024.03.26-19.20.12:286][431]LogModuleManager: Shutting down and abandoning module SlateReflector (204)
+[2024.03.26-19.20.12:288][431]LogModuleManager: Shutting down and abandoning module Slate (202)
+[2024.03.26-19.20.12:288][431]LogModuleManager: Shutting down and abandoning module EditorStyle (200)
+[2024.03.26-19.20.12:292][431]LogModuleManager: Shutting down and abandoning module MRMesh (198)
+[2024.03.26-19.20.12:292][431]LogModuleManager: Shutting down and abandoning module SourceCodeAccess (196)
+[2024.03.26-19.20.12:292][431]LogModuleManager: Shutting down and abandoning module HeadMountedDisplay (194)
+[2024.03.26-19.20.12:292][431]LogModuleManager: Shutting down and abandoning module XAudio2 (192)
+[2024.03.26-19.20.12:292][431]LogModuleManager: Shutting down and abandoning module Networking (190)
+[2024.03.26-19.20.12:292][431]LogModuleManager: Shutting down and abandoning module Core (188)
+[2024.03.26-19.20.12:292][431]LogModuleManager: Shutting down and abandoning module LevelSequence (186)
+[2024.03.26-19.20.12:292][431]LogModuleManager: Shutting down and abandoning module KismetCompiler (184)
+[2024.03.26-19.20.12:292][431]LogModuleManager: Shutting down and abandoning module MeshUtilities (182)
+[2024.03.26-19.20.12:292][431]LogModuleManager: Shutting down and abandoning module MeshMergeUtilities (181)
+[2024.03.26-19.20.12:293][431]LogModuleManager: Shutting down and abandoning module MeshReductionInterface (180)
+[2024.03.26-19.20.12:293][431]LogModuleManager: Shutting down and abandoning module SimplygonSwarm (179)
+[2024.03.26-19.20.12:293][431]LogModuleManager: Shutting down and abandoning module ProxyLODMeshReduction (177)
+[2024.03.26-19.20.12:295][431]LogModuleManager: Shutting down and abandoning module SimplygonMeshReduction (175)
+[2024.03.26-19.20.12:296][431]LogModuleManager: Shutting down and abandoning module QuadricMeshReduction (173)
+[2024.03.26-19.20.12:296][431]LogModuleManager: Shutting down and abandoning module MaterialBaking (169)
+[2024.03.26-19.20.12:297][431]LogModuleManager: Shutting down and abandoning module DirectoryWatcher (165)
+[2024.03.26-19.20.12:297][431]LogModuleManager: Shutting down and abandoning module DerivedDataCache (162)
+[2024.03.26-19.20.12:349][431]LogDerivedDataCache: Shutdown
+[2024.03.26-19.20.12:349][431]LogModuleManager: Shutting down and abandoning module XGEController (160)
+[2024.03.26-19.20.12:349][431]LogModuleManager: Shutting down and abandoning module TargetPlatform (158)
+[2024.03.26-19.20.12:349][431]LogModuleManager: Shutting down and abandoning module VulkanShaderFormat (157)
+[2024.03.26-19.20.12:350][431]LogModuleManager: Shutting down and abandoning module ShaderFormatVectorVM (155)
+[2024.03.26-19.20.12:350][431]LogModuleManager: Shutting down and abandoning module ShaderFormatOpenGL (153)
+[2024.03.26-19.20.12:351][431]LogModuleManager: Shutting down and abandoning module ShaderFormatD3D (151)
+[2024.03.26-19.20.12:351][431]LogModuleManager: Shutting down and abandoning module MetalShaderFormat (149)
+[2024.03.26-19.20.12:352][431]LogModuleManager: Shutting down and abandoning module TextureFormatUncompressed (147)
+[2024.03.26-19.20.12:352][431]LogModuleManager: Shutting down and abandoning module TextureFormatPVR (145)
+[2024.03.26-19.20.12:352][431]LogModuleManager: Shutting down and abandoning module TextureFormatDXT (143)
+[2024.03.26-19.20.12:352][431]LogModuleManager: Shutting down and abandoning module TextureFormatIntelISPCTexComp (141)
+[2024.03.26-19.20.12:353][431]LogModuleManager: Shutting down and abandoning module TextureFormatASTC (139)
+[2024.03.26-19.20.12:353][431]LogModuleManager: Shutting down and abandoning module ImageWrapper (138)
+[2024.03.26-19.20.12:353][431]LogModuleManager: Shutting down and abandoning module TextureFormatAndroid (135)
+[2024.03.26-19.20.12:354][431]LogModuleManager: Shutting down and abandoning module AudioFormatOpus (133)
+[2024.03.26-19.20.12:354][431]LogModuleManager: Shutting down and abandoning module AudioFormatOgg (131)
+[2024.03.26-19.20.12:354][431]LogModuleManager: Shutting down and abandoning module AudioFormatADPCM (129)
+[2024.03.26-19.20.12:354][431]LogModuleManager: Shutting down and abandoning module LuminTargetPlatform (127)
+[2024.03.26-19.20.12:354][431]LogModuleManager: Shutting down and abandoning module LinuxTargetPlatform (125)
+[2024.03.26-19.20.12:354][431]LogModuleManager: Shutting down and abandoning module LinuxServerTargetPlatform (123)
+[2024.03.26-19.20.12:354][431]LogModuleManager: Shutting down and abandoning module LinuxNoEditorTargetPlatform (121)
+[2024.03.26-19.20.12:354][431]LogModuleManager: Shutting down and abandoning module LinuxClientTargetPlatform (119)
+[2024.03.26-19.20.12:355][431]LogModuleManager: Shutting down and abandoning module TVOSTargetPlatform (117)
+[2024.03.26-19.20.12:356][431]LogModuleManager: Shutting down and abandoning module Messaging (115)
+[2024.03.26-19.20.12:356][431]LogModuleManager: Shutting down and abandoning module IOSTargetPlatform (113)
+[2024.03.26-19.20.12:358][431]LogModuleManager: Shutting down and abandoning module HTML5TargetPlatform (111)
+[2024.03.26-19.20.12:358][431]LogModuleManager: Shutting down and abandoning module AndroidTargetPlatform (109)
+[2024.03.26-19.20.12:370][431]LogModuleManager: Shutting down and abandoning module WindowsTargetPlatform (107)
+[2024.03.26-19.20.12:370][431]LogModuleManager: Shutting down and abandoning module WindowsServerTargetPlatform (105)
+[2024.03.26-19.20.12:370][431]LogModuleManager: Shutting down and abandoning module WindowsNoEditorTargetPlatform (103)
+[2024.03.26-19.20.12:370][431]LogModuleManager: Shutting down and abandoning module WindowsClientTargetPlatform (101)
+[2024.03.26-19.20.12:370][431]LogModuleManager: Shutting down and abandoning module MacTargetPlatform (99)
+[2024.03.26-19.20.12:370][431]LogModuleManager: Shutting down and abandoning module MacServerTargetPlatform (97)
+[2024.03.26-19.20.12:370][431]LogModuleManager: Shutting down and abandoning module MacNoEditorTargetPlatform (95)
+[2024.03.26-19.20.12:371][431]LogModuleManager: Shutting down and abandoning module MacClientTargetPlatform (93)
+[2024.03.26-19.20.12:371][431]LogModuleManager: Shutting down and abandoning module AllDesktopTargetPlatform (91)
+[2024.03.26-19.20.12:371][431]LogModuleManager: Shutting down and abandoning module InputCore (88)
+[2024.03.26-19.20.12:371][431]LogModuleManager: Shutting down and abandoning module Settings (86)
+[2024.03.26-19.20.12:371][431]LogModuleManager: Shutting down and abandoning module PhysXCooking (84)
+[2024.03.26-19.20.12:371][431]LogModuleManager: Shutting down and abandoning module SteamVR (82)
+[2024.03.26-19.20.12:371][431]LogModuleManager: Shutting down and abandoning module OculusHMD (80)
+[2024.03.26-19.20.12:371][431]LogModuleManager: Shutting down and abandoning module ExampleDeviceProfileSelector (78)
+[2024.03.26-19.20.12:371][431]LogModuleManager: Shutting down and abandoning module LauncherChunkInstaller (76)
+[2024.03.26-19.20.12:371][431]LogModuleManager: Shutting down and abandoning module OnlineBlueprintSupport (74)
+[2024.03.26-19.20.12:371][431]LogModuleManager: Shutting down and abandoning module OnlineSubsystem (70)
+[2024.03.26-19.20.12:373][431]LogModuleManager: Shutting down and abandoning module XMPP (65)
+[2024.03.26-19.20.12:375][431]LogModuleManager: Shutting down and abandoning module WebSockets (64)
+[2024.03.26-19.20.12:383][431]LogModuleManager: Shutting down and abandoning module HTTP (61)
+[2024.03.26-19.20.12:383][431]LogHttp: Display: Http module shutting down, but needs to wait on 1 outstanding Http requests:
+[2024.03.26-19.20.12:383][431]LogHttp: Display: 	verb=[POST] url=[https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B37F9159E-4E46-7E1D-329F-748E222BADB1%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.20.3-4369336%2B%2B%2BUE4%2BRelease-4.20&UserID=ddaaa15240c18ed1d114579556b57589%7Cb7cd399699614ecea20d9e85f8575562%7C73f8a3a6-f6fa-4b94-b726-7d06eebb5782&AppEnvironment=datacollector-binary&UploadType=eteventstream] status=Processing
+[2024.03.26-19.20.12:407][431]LogModuleManager: Shutting down and abandoning module SSL (60)
+[2024.03.26-19.20.12:410][431]LogModuleManager: Shutting down and abandoning module MagicLeapEmulator (56)
+[2024.03.26-19.20.12:410][431]LogModuleManager: Shutting down and abandoning module MagicLeapPrivileges (54)
+[2024.03.26-19.20.12:410][431]LogModuleManager: Shutting down and abandoning module MagicLeapIdentity (52)
+[2024.03.26-19.20.12:410][431]LogModuleManager: Shutting down and abandoning module MagicLeapHelperVulkan (50)
+[2024.03.26-19.20.12:410][431]LogModuleManager: Shutting down and abandoning module MagicLeapHelperOpenGL (48)
+[2024.03.26-19.20.12:410][431]LogModuleManager: Shutting down and abandoning module MagicLeapSecureStorage (46)
+[2024.03.26-19.20.12:410][431]LogModuleManager: Shutting down and abandoning module MagicLeapGestures (44)
+[2024.03.26-19.20.12:410][431]LogModuleManager: Shutting down and abandoning module MagicLeapEyeTracker (42)
+[2024.03.26-19.20.12:410][431]LogModuleManager: Shutting down and abandoning module MagicLeapController (40)
+[2024.03.26-19.20.12:410][431]LogSlate: Slate User Destroyed.  User Index 0, Is Virtual User: 0
+[2024.03.26-19.20.12:410][431]LogModuleManager: Shutting down and abandoning module MagicLeap (38)
+[2024.03.26-19.20.12:411][431]LogModuleManager: Shutting down and abandoning module AnimationModifiers (36)
+[2024.03.26-19.20.12:411][431]LogModuleManager: Shutting down and abandoning module PropertyEditor (35)
+[2024.03.26-19.20.12:411][431]LogModuleManager: Shutting down and abandoning module AudioEditor (32)
+[2024.03.26-19.20.12:412][431]LogModuleManager: Shutting down and abandoning module TextureCompressor (30)
+[2024.03.26-19.20.12:412][431]LogModuleManager: Shutting down and abandoning module ShaderCore (28)
+[2024.03.26-19.20.12:412][431]LogModuleManager: Shutting down and abandoning module Landscape (26)
+[2024.03.26-19.20.12:412][431]LogModuleManager: Shutting down and abandoning module SlateRHIRenderer (24)
+[2024.03.26-19.20.12:413][431]LogModuleManager: Shutting down and abandoning module OpenGLDrv (22)
+[2024.03.26-19.20.12:413][431]LogModuleManager: Shutting down and abandoning module D3D11RHI (20)
+[2024.03.26-19.20.12:413][431]LogModuleManager: Shutting down and abandoning module AnimGraphRuntime (18)
+[2024.03.26-19.20.12:413][431]LogModuleManager: Shutting down and abandoning module Renderer (16)
+[2024.03.26-19.20.12:413][431]LogModuleManager: Shutting down and abandoning module Engine (14)
+[2024.03.26-19.20.12:413][431]LogModuleManager: Shutting down and abandoning module CoreUObject (12)
+[2024.03.26-19.20.12:413][431]LogModuleManager: Shutting down and abandoning module NetworkFile (10)
+[2024.03.26-19.20.12:414][431]LogModuleManager: Shutting down and abandoning module CookedIterativeFile (8)
+[2024.03.26-19.20.12:414][431]LogModuleManager: Shutting down and abandoning module StreamingFile (6)
+[2024.03.26-19.20.12:414][431]LogModuleManager: Shutting down and abandoning module SandboxFile (4)
+[2024.03.26-19.20.12:414][431]LogModuleManager: Shutting down and abandoning module PakFile (2)
+[2024.03.26-19.20.12:439][431]LogExit: Exiting.
+[2024.03.26-19.20.12:457][431]Log file closed, 03/26/24 12:20:12
